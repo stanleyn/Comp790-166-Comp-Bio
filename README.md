@@ -16,7 +16,7 @@ Moden, high-throughput assays allow us to efficiently profile a variety biologic
 To get the most out of the presented material, I suggest a strong programming background in at least one of the following (Python, R, Julia, or Matlab), experience with linear algebra and basic probability. Do not worry if you don't know much biology. We will have a gentle introduction at the beginning and throughout. Please feel free to talk to me about any of these. 
 
 ## Course Structure
-This course will be mostly lecture-based with two homework assignments and a course project. I will provide ideas for several publicly available biological datasets and open problems for you to work on. This will give you an opportunity to implement/apply methodology discussed in the papers that we will discuss together. You are welcome to work on teams for this project.
+This course will be mostly lecture-based with two homework assignments and a course project. I will provide ideas for several publicly available biological datasets and open problems for you to work on for these projects. Overall, the project is intended to give you an opportunity to implement/apply methodology discussed in the papers that we will discuss together. The final project writeup will also give you practice writing up results and communicating ideas. You are welcome to work on teams for this project.
 
 Most of the lectures will be based around several papers. To benefit your own understanding, I will provide a set of questions that should be answered for one of the papers discussed in each lecture.
 
