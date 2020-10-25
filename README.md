@@ -20,24 +20,6 @@ This course will be mostly lecture-based with two homework assignments and a cou
 
 Most of the lectures will be based around several papers. To benefit your own understanding, I will provide a set of questions that should be answered for one of the papers discussed in each lecture.
 
-## Homework
-There will be two homework assignments to translate concepts into code. Often, things can become a bit easier to understand and use when they are implemented by you. :) I will be happy to read/run code written in Python, R, Julia, or Matlab. Please submit your homework writeup as a PDF. 
-
-## Background Resources
-Most of what we discuss in class will come from papers. However, I suggest the following textbooks as background references. Conveniently, they are also available for free.
-
-* Pattern Recognition and Machine Learning-- Chris Bishop // http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf
-
-* The Elements of Statistical Learning -- Hastie et al. // https://web.stanford.edu/~hastie/ElemStatLearn/
-
-* The Matrix Cookbook // https://www.math.uwaterloo.ca/~hwolkowi/matrixcookbook.pdf
-
-## Readings
-For each class, I will update the papers that we will go over in the table below. You will only be required to write a summary of one of the potentially multiple papers assigned for that day.
-
-## Final Project
-I will provide you with several examples of publicly available biological datasets and problems. Half-way through the semester, you will submit your project proposal and present your idea to the class.  The proposal will be a short document describing 1) The problem 2) A background on other people's attempts to solve this problem and 3) A background on your idea of a solution and 4) the data you will use to test your method. At the end of the semester you will write a short paper explaining your method and results and present your results.
-
 # Schedule
 
 | Date | Topic | Reading |
@@ -71,4 +53,24 @@ I will provide you with several examples of publicly available biological datase
 |Week 15-1 | Project Presentations Day 1 | |
 |Week 15-2 | Project Presentations Day 2 | |
 |Final Exam Day | Project papers due | |
+
+# Homework, Project, Reading, Etc
+
+## Homework
+There will be two homework assignments to translate concepts into code. Often, things can become a bit easier to understand and use when they are implemented by you. :) I will be happy to read/run code written in Python, R, Julia, or Matlab. Please submit your homework writeup as a PDF. 
+
+## Background Resources
+Most of what we discuss in class will come from papers. However, I suggest the following textbooks as background references. Conveniently, they are also available for free.
+
+* Pattern Recognition and Machine Learning-- Chris Bishop // http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf
+
+* The Elements of Statistical Learning -- Hastie et al. // https://web.stanford.edu/~hastie/ElemStatLearn/
+
+* The Matrix Cookbook // https://www.math.uwaterloo.ca/~hwolkowi/matrixcookbook.pdf
+
+## Readings
+For each class, I will update the papers that we will go over in the table below. You will only be required to write a summary of one of the potentially multiple papers assigned for that day.
+
+## Final Project
+I will provide you with several examples of publicly available biological datasets and problems. Half-way through the semester, you will submit your project proposal and present your idea to the class.  The proposal will be a short document describing 1) The problem 2) A background on other people's attempts to solve this problem and 3) A background on your idea of a solution and 4) the data you will use to test your method. At the end of the semester you will write a short paper explaining your method and results and present your results.
 
