@@ -71,6 +71,20 @@ Most of what we discuss in class will come from papers. However, I suggest the f
 ## Readings
 For each class, I will update the papers that we will go over in above table. You will only be required to write a summary of one of the potentially multiple papers assigned for that day.
 
+### Reading Questions
+
+1) Please explain in 2 sentences or less what the problem being solved is.
+
+2) What were the main contributions of the authors in this work? (You can answer in a few bullet points). 
+
+3) Please describe 1-2 computational experiments that the authors implemented to test their method.
+
+4) Were the authors the first to attempt this particular problem? If not, did they compare their results to other baselines? Do you think that their evaluation was objective?
+
+5) Do you think that the authors provided enough evidence for why their developed method is an important contribution? If yes, please describe their reasoning here. If you do not think they adequately justified why they worked on this particular problem, please describe your thoughts on that here. 
+
+6) What is one follow-up idea or extension from this work? 
+
 ## Final Project
 I will provide you with several examples of publicly available biological datasets and problems. Half-way through the semester, you will submit your project proposal and present your idea to the class.  The proposal will be a short document describing 1) The problem 2) A background on other people's attempts to solve this problem and 3) A background on your idea of a solution and 4) the data you will use to test your method. At the end of the semester you will write a short paper explaining your method and results and present your results.
 
