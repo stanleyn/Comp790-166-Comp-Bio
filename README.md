@@ -25,33 +25,33 @@ Most of the lectures will be based around several papers. To benefit your own un
 | Date | Topic | Reading |
 |------|-------|---------|
 | Week 1-1    | Intro, biology primer, bioinformatics vs comp bio, big picture challenges     | Systems Immunology, Just Getting Started      |
-| Week 2-2    | Building graphs from data, matrix factorization | |
-| Week 3-1 | Partitioning Graphs, Ranking Nodes | |
-| Week 3-2 | Graph Embeddings: Embedding Nodes and Embedding Edges | Node2Vec and Edge2Vec |
-| Week 4-1 | Single Cell Day 1: Intro to single-cell proteomics, visualization, normalization and batch effect correction | spade |
-|Week 4-2 | Single Cell Day 2: Graph-based analysis of single-cell data | phenograph |
-| Week 5-1 | Single Cell Day 3: Feature Engineering from single-cell data and linking to external variables | Citrus, VoPo | 
-| Week 5-2 | Single Cell Day 4: Differential Analysis of Cell-Populations | Diffcyt, Cydar |
-| Week 6-1 | Single Cell Day 5: Graph-based matching of single-cell data | Conos, LIGER
-| Week 6-2 | Single Cell Day 6: Deep Learning for Single Cell Tasks | SAUCIE, PHATE, CellCNN |
-| Week 7-1 | Single Cell Day 7: Semi-Supervised Automated Cell-Population Discovery
-| Week 7-2 | Single Cell Day 7: Trajectory Inference | |
-| Week 8-1 | Single Cell Day 8: Benchmarking in Trajectory Inference | |
-| Week 8-2 : **Project Proposals Due** | Presentations of Project Propsals Day 1 | |
-| Week 9-1 | Project Proposal Presentation Day 2 | |
-| Week 9-2 : **Homework 1 Due** | Single Cell Day 9: Benchmarking in Single-Cell Analysis | Aghaeepour et al |
-| Week 10-1 | Single Cell Day 10: Imaging Proteomics + Spatial Regularization : computational challeneges in combining tissue images and protein expression | |
-| Week 10-2 | Multiomics Day 1: Constructing a joint embedding of samples according to multiple modalities | SNF, grassmann embed |  
-| Week 11-1 | Multiomics Day 2: MOFA-1 and MOFA-2: Multiomics Factor Analysis | MOFA-1, MOFA-2 | 
-| Week 11-2 | Multiomics Day 3: Uncovering Relationships Between Modalities | mmvec| 
-| Week 12-1 | Multiomics Day 4: Stacked Generalization and CCA in multiomics studies | Ghaemi |
-| Week 12-2 | Multiomics Day 5: Benchmarking in multiomics studies | |
-|Week 13-1  | Incorporating Prior Biological Knowledge into Analysis | |
-|Week 13-2 : **Homework 2 Due** |  Systems Immunology Topic: TCR/BCR (T and B cell reperotire analysis) | | 
-|Week 14-1 | Partial Correlation, Thresholding etc for Identifying Meaningful Interactions | | 
-|Week 14-2 | Enrichment Analysis, writing for an interdiscplinary audience | | 
-|Week 15-1 | Project Presentations Day 1 | |
-|Week 15-2 | Project Presentations Day 2 | |
+| Week 1-2    | Building graphs from data, matrix factorization | |
+| Week 2-1 | Partitioning Graphs, Ranking Nodes | |
+| Week 2-2 | Graph Embeddings: Embedding Nodes and Embedding Edges | Node2Vec and Edge2Vec |
+| Week 3-1 | Single Cell Day 1: Intro to single-cell proteomics, visualization, normalization and batch effect correction | spade |
+|Week 3-2 | Single Cell Day 2: Graph-based analysis of single-cell data | phenograph |
+| Week 4-1 | Single Cell Day 3: Feature Engineering from single-cell data and linking to external variables | Citrus, VoPo | 
+| Week 4-2 | Single Cell Day 4: Differential Analysis of Cell-Populations | Diffcyt, Cydar |
+| Week 5-1 | Single Cell Day 5: Graph-based matching of single-cell data | Conos, LIGER
+| Week 5-2 | Single Cell Day 6: Deep Learning for Single Cell Tasks | SAUCIE, PHATE, CellCNN |
+| Week 6-1 | Single Cell Day 7: Semi-Supervised Automated Cell-Population Discovery
+| Week 6-2 | Single Cell Day 7: Trajectory Inference | |
+| Week 7-1 | Single Cell Day 8: Benchmarking in Trajectory Inference | |
+| Week 7-2 : **Project Proposals Due** | Presentations of Project Propsals Day 1 | |
+| Week 8-1 | Project Proposal Presentation Day 2 | |
+| Week 8-2 : **Homework 1 Due** | Single Cell Day 9: Benchmarking in Single-Cell Analysis | Aghaeepour et al |
+| Week 9-1 | Single Cell Day 10: Imaging Proteomics + Spatial Regularization : computational challeneges in combining tissue images and protein expression | |
+| Week 9-2 | Multiomics Day 1: Constructing a joint embedding of samples according to multiple modalities | SNF, grassmann embed |  
+| Week 10-1 | Multiomics Day 2: MOFA-1 and MOFA-2: Multiomics Factor Analysis | MOFA-1, MOFA-2 | 
+| Week 10-2 | Multiomics Day 3: Uncovering Relationships Between Modalities | mmvec| 
+| Week 11-1 | Multiomics Day 4: Stacked Generalization and CCA in multiomics studies | Ghaemi |
+| Week 11-2 | Multiomics Day 5: Benchmarking in multiomics studies | |
+|Week 12-1  | Incorporating Prior Biological Knowledge into Analysis | |
+|Week 12-2 : **Homework 2 Due** |  Systems Immunology Topic: TCR/BCR (T and B cell reperotire analysis) | | 
+|Week 13-1 | Partial Correlation, Thresholding etc for Identifying Meaningful Interactions | | 
+|Week 13-2 | Enrichment Analysis, writing for an interdiscplinary audience | | 
+|Week 14-1 | Project Presentations Day 1 | |
+|Week 14-2 | Project Presentations Day 2 | |
 |Final Exam Day | Project papers due | |
 
 # Homework, Project, Reading, Grading Etc
