@@ -54,7 +54,7 @@ Most of the lectures will be based around several papers. To benefit your own un
 |Week 15-2 | Project Presentations Day 2 | |
 |Final Exam Day | Project papers due | |
 
-# Homework, Project, Reading, Etc
+# Homework, Project, Reading, Grading Etc
 
 ## Homework
 There will be two homework assignments to translate concepts into code. Often, things can become a bit easier to understand and use when they are implemented by you. :) I will be happy to read/run code written in Python, R, Julia, or Matlab. Please submit your homework writeup as a PDF. 
@@ -73,4 +73,13 @@ For each class, I will update the papers that we will go over in the table below
 
 ## Final Project
 I will provide you with several examples of publicly available biological datasets and problems. Half-way through the semester, you will submit your project proposal and present your idea to the class.  The proposal will be a short document describing 1) The problem 2) A background on other people's attempts to solve this problem and 3) A background on your idea of a solution and 4) the data you will use to test your method. At the end of the semester you will write a short paper explaining your method and results and present your results.
+
+## Grading
+ Grading will be based on the following
+
+1) Reading Questions : 20% over the entire semester
+2) Homework 1: 20%
+3) Homework 2: 20%
+4) Project Proposal : 10%
+5) Project final writeup: 30%
 
