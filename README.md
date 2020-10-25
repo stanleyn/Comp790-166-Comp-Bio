@@ -43,16 +43,16 @@ I will provide you with several examples of publicly available biological datase
 | Date | Topic | Reading |
 |------|-------|---------|
 | Week 1-1    | Intro, biological primer, bioinformatics vs comp bio, big picture challenges     |        |
-| Week 1-2    | Review of Basic ML concepts (cross-validation, classification, regression, clustering)     |        |
 | Week 2-2    | Building graphs from data, matrix factorization | |
 | Week 3-1 | Partitioning Graphs, Ranking Nodes | |
-| Week 4-1 | Graph Embeddings: Embedding Nodes and Embedding Edges | Node2Vec and Edge2Vec |
-| Week 4-2 | Single Cell Day 1: Intro to single-cell proteomics, visualization, normalization and batch effect correction | spade |
-|Week 5-1 | Single Cell Day 2: Graph-based analysis of single-cell data | phenograph |
-| Week 5-2 | Single Cell Day 3: Feature Engineering from single-cell data and linking to external variables | Citrus, VoPo | 
-| Week 6-1 | Single Cell Day 4: Differential Analysis of Cell-Populations | Diffcyt, Cydar |
-| Week 6-2 | Single Cell Day 5: Graph-based matching of single-cell data | Conos, LIGER
-| Week 7-1 | Single Cell Day 6: Deep Learning in Single-Cell Analysis | SAUCIE, PHATE, CellCNN |
+| Week 3-2 | Graph Embeddings: Embedding Nodes and Embedding Edges | Node2Vec and Edge2Vec |
+| Week 4-1 | Single Cell Day 1: Intro to single-cell proteomics, visualization, normalization and batch effect correction | spade |
+|Week 4-2 | Single Cell Day 2: Graph-based analysis of single-cell data | phenograph |
+| Week 5-1 | Single Cell Day 3: Feature Engineering from single-cell data and linking to external variables | Citrus, VoPo | 
+| Week 5-2 | Single Cell Day 4: Differential Analysis of Cell-Populations | Diffcyt, Cydar |
+| Week 6-1 | Single Cell Day 5: Graph-based matching of single-cell data | Conos, LIGER
+| Week 6-2 | Single Cell Day 6: Deep Learning for Single Cell Tasks | SAUCIE, PHATE, CellCNN |
+| Week 7-1 : Single Cell Day 7: Semi-Supervised Automated Cell-Population Discovery
 | Week 7-2 | Single Cell Day 7: Trajectory Inference | |
 | Week 8-1 | Single Cell Day 8: Benchmarking in Trajectory Inference | |
 | Week 8-2 : Project Proposals Due | Presentations of Project Propsals Day 1 | |
