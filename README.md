@@ -59,7 +59,7 @@ I will provide you with several examples of publicly available biological datase
 | Week 9-1 | Project Proposal Presentation Day 2 | |
 | Week 9-2| Single Cell Day 9: Benchmarking in Single-Cell Analysis | Aghaeepour et al |
 | Week 10-1 | Single Cell Day 10: Imaging Proteomics + Spatial Regularization : computational challeneges in combining tissue images and protein expression | |
-| Week 10-2 | Multiomics Day 1: Graph-Based Joint Embedding of samples according to multiple modalities | SNF, grassmann embed |  
+| Week 10-2 | Multiomics Day 1: Constructing a joint embedding of samples according to multiple modalities | SNF, grassmann embed |  
 | Week 11-1 | Multiomics Day 2: MOFA-1 and MOFA-2: Multiomics Factor Analysis | MOFA-1, MOFA-2 | 
 | Week 11-2 | Multiomics Day 3: Uncovering Relationships Between Modalities | mmvec| 
 | Week 12-1 | Multiomics Day 4: Stacked Generalization and CCA in multiomics studies | Ghaemi |
@@ -68,7 +68,7 @@ I will provide you with several examples of publicly available biological datase
 |Week 13-2 |  Systems Immunology Topic: TCR/BCR (T and B cell reperotire analysis) | | 
 |Week 14-1 | Partial Correlation, Thresholding etc for Identifying Meaningful Interactions | | 
 |Week 14-2 | Enrichment Analysis, writing for an interdiscplinary audience | | 
-|Week 15-1 | Project Presentations Day 1 |
-|Week 15-2 | Project Presentations Day 2 |
-
+|Week 15-1 | Project Presentations Day 1 | |
+|Week 15-2 | Project Presentations Day 2 | |
+|Final Exam Day | Project papers due | |
 
