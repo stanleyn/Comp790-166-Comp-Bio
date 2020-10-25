@@ -28,7 +28,7 @@ Most of what we discuss in class will come from papers. However, I suggest the f
 
 * Pattern Recognition and Machine Learning-- Chris Bishop // http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf
 
-* Elements of Statistical Learning -- Hastie et al. // https://web.stanford.edu/~hastie/ElemStatLearn/printings/ESLII_print12_toc.pdf
+* The Elements of Statistical Learning -- Hastie et al. // https://web.stanford.edu/~hastie/ElemStatLearn/printings/ESLII_print12_toc.pdf
 
 * The Matrix Cookbook // https://www.math.uwaterloo.ca/~hwolkowi/matrixcookbook.pdf
 
