@@ -42,7 +42,7 @@ I will provide you with several examples of publicly available biological datase
 
 | Date | Topic | Reading |
 |------|-------|---------|
-| Week 1-1    | Intro, biological primer, bioinformatics vs comp bio, big picture challenges     |        |
+| Week 1-1    | Intro, biological primer, bioinformatics vs comp bio, big picture challenges     | [Systems Immunology, Just Getting Started]       |
 | Week 2-2    | Building graphs from data, matrix factorization | |
 | Week 3-1 | Partitioning Graphs, Ranking Nodes | |
 | Week 3-2 | Graph Embeddings: Embedding Nodes and Embedding Edges | Node2Vec and Edge2Vec |
