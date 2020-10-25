@@ -52,7 +52,7 @@ I will provide you with several examples of publicly available biological datase
 | Week 5-2 | Single Cell Day 4: Differential Analysis of Cell-Populations | Diffcyt, Cydar |
 | Week 6-1 | Single Cell Day 5: Graph-based matching of single-cell data | Conos, LIGER
 | Week 6-2 | Single Cell Day 6: Deep Learning for Single Cell Tasks | SAUCIE, PHATE, CellCNN |
-| Week 7-1 : Single Cell Day 7: Semi-Supervised Automated Cell-Population Discovery
+| Week 7-1 | Single Cell Day 7: Semi-Supervised Automated Cell-Population Discovery
 | Week 7-2 | Single Cell Day 7: Trajectory Inference | |
 | Week 8-1 | Single Cell Day 8: Benchmarking in Trajectory Inference | |
 | Week 8-2 : Project Proposals Due | Presentations of Project Propsals Day 1 | |
