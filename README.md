@@ -24,7 +24,7 @@ Most of the lectures will be based around several papers. To benefit your own un
 
 | Date | Topic | Reading |
 |------|-------|---------|
-| Week 1-1    | Intro, biological primer, bioinformatics vs comp bio, big picture challenges     | Systems Immunology, Just Getting Started      |
+| Week 1-1    | Intro, biology primer, bioinformatics vs comp bio, big picture challenges     | Systems Immunology, Just Getting Started      |
 | Week 2-2    | Building graphs from data, matrix factorization | |
 | Week 3-1 | Partitioning Graphs, Ranking Nodes | |
 | Week 3-2 | Graph Embeddings: Embedding Nodes and Embedding Edges | Node2Vec and Edge2Vec |
