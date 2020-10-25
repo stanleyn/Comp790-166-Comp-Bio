@@ -42,5 +42,6 @@ I will provide you with several examples of publicly available biological datase
 
 | Date | Topic | Reading |
 |------|-------|---------|
-| Week 1-1    | Intro, biological primer     |        |
+| Week 1-1    | Intro, biological primer, bioinformatics vs comp bio     |        |
 | Week 1-2    | Review of Basic ML concepts (cross-validation, classification, regression, clustering)     |        |
+| Week 2-2    | Building graphs from data | |
