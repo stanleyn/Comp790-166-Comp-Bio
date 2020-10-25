@@ -1,6 +1,6 @@
-# Comp790: Computational Biology
+# Comp790-166: Computational Biology
 
-## Logistical Details
+## Details
 Instructor: Natalie Stanley
 
 Email: stanleyn@stanford.edu
