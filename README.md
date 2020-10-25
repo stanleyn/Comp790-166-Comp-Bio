@@ -2,8 +2,11 @@
 
 ## Logistical Details
 Instructor: Natalie Stanley
+
 Email: TBD
+
 Time: Tuesday/Thursday 9:30am-10:45am
+
 Office Hours: TBD
 
 ## Description
