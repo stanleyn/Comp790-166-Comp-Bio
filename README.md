@@ -42,5 +42,5 @@ I will provide you with several examples of publicly available biological datase
 
 | Date | Topic | Reading |
 |------|-------|---------|
-| Week 1-1    | Intro, Biological Primer     |        |
-| a    | b     | c       |
+| Week 1-1    | Intro, biological primer     |        |
+| Week 1-2    | Review of Basic ML concepts (cross-validation, classification, regression, clustering)     |        |
