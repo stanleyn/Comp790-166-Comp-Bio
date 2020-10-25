@@ -42,5 +42,5 @@ I will provide you with several examples of publicly available biological datase
 
 | Date | Topic | Reading |
 |------|-------|---------|
-| x    | y     | z       |
+| Week 1-1    | Intro, Biological Primer     |        |
 | a    | b     | c       |
