@@ -3,7 +3,7 @@
 ## Logistical Details
 Instructor: Natalie Stanley
 
-Email: TBD
+Email: stanleyn@stanford.edu
 
 Time: Tuesday/Thursday 9:30am-10:45am
 
