@@ -28,15 +28,15 @@ Most of what we discuss in class will come from papers. However, I suggest the f
 
 * Pattern Recognition and Machine Learning-- Chris Bishop // http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf
 
-* The Elements of Statistical Learning -- Hastie et al. // https://web.stanford.edu/~hastie/ElemStatLearn/printings/ESLII_print12_toc.pdf
+* The Elements of Statistical Learning -- Hastie et al. // https://web.stanford.edu/~hastie/ElemStatLearn/
 
 * The Matrix Cookbook // https://www.math.uwaterloo.ca/~hwolkowi/matrixcookbook.pdf
 
 ## Readings
-For each class, I will share the papers that we will go over. You will only be required to write a summary of one of the potentially multiple papers assigned for that day.
+For each class, I will update the papers that we will go over in the table below. You will only be required to write a summary of one of the potentially multiple papers assigned for that day.
 
 ## Final Project
-I will provide you with several examples of publicly available biological datasets and problems. Half-way through the semester, you will submit your project proposal and present your idea to the class.  The proposal will be a short document describing 1) The problem 2) A background on other people's attempts to solve this problem and 3) A background on your idea of a solution and 4) Data you will use to test your method. At the end of the semester you will write a short paper explaining your method and results and present your results.
+I will provide you with several examples of publicly available biological datasets and problems. Half-way through the semester, you will submit your project proposal and present your idea to the class.  The proposal will be a short document describing 1) The problem 2) A background on other people's attempts to solve this problem and 3) A background on your idea of a solution and 4) the data you will use to test your method. At the end of the semester you will write a short paper explaining your method and results and present your results.
 
 # Schedule
 
