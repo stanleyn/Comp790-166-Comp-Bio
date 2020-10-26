@@ -57,7 +57,7 @@ Most of the lectures will be based around several papers. To benefit your own un
 # Homework, Project, Reading, Grading Etc
 
 ## Homework
-There will be two homework assignments to practice implementing particular concepts. Often, things can become a bit easier to understand and use when they are implemented by you. :) I will be happy to read/run code written in Python, R, Julia, or Matlab. Please submit your homework writeup as a PDF. 
+There will be two homework assignments to practice implementing particular concepts. Often, things can become a bit easier to understand and use when they are implemented by you. I will be happy to read/run code written in Python, R, Julia, or Matlab. Please submit your homework writeup as a PDF. 
 
 ## Background Resources
 Most of what we discuss in class will come from papers. However, I suggest the following textbooks as background references. Conveniently, they are also available for free.
