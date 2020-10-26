@@ -54,7 +54,7 @@ Most of the lectures will be based around several papers. To benefit your own un
 |Week 14-2 | Project Presentations Day 2 | |
 |Final Exam Day | Project papers due | |
 
-# Homework, Project, Reading, Grading Etc
+# Homework, Project, Reading, Grading, Etc
 
 ## Homework
 There will be two homework assignments to practice implementing particular concepts. Often, things can become a bit easier to understand and use when they are implemented by you. I will be happy to read/run code written in Python, R, Julia, or Matlab. Please submit your homework writeup as a PDF. 
