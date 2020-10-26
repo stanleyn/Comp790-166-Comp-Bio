@@ -49,7 +49,7 @@ Most of the lectures will be based around several papers. To benefit your own un
 | Week 11-1 | Multiomics Day 4: Stacked Generalization and CCA in multiomics studies | Ghaemi |
 | Week 11-2 | Multiomics Day 5: Benchmarking in multiomics studies | |
 |Week 12-1  | Incorporating Prior Biological Knowledge into Analysis | |
-|Week 12-2 : **Homework 2 Due** |  Systems Immunology Topic: TCR/BCR (T and B cell reperotire analysis) | | 
+|Week 12-2 : **Homework 2 Due** |  Systems Immunology Topic: TCR/BCR (T and B cell receptor reperotire analysis) | | 
 |Week 13-1 | Partial Correlation, Thresholding etc for Identifying Meaningful Interactions | | 
 |Week 13-2 | Enrichment Analysis, writing for an interdiscplinary audience | | 
 |Week 14-1 | Project Presentations Day 1 | |
