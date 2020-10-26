@@ -5,7 +5,7 @@ Instructor: Natalie Stanley
 
 Email: stanleyn@stanford.edu
 
-Time: Tuesday/Thursday 9:30am-10:45am
+Time: Tuesday/Thursday 9:30am-10:45am, Spring Semester 2021
 
 Office Hours: TBD
 
