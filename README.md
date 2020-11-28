@@ -30,7 +30,7 @@ Most of the lectures will be based around several papers. To benefit your own un
 | Week 1-2    | Building graphs from data, matrix factorization, feature selection | |
 | Week 2-1 | Partitioning Graphs, Ranking Nodes | |
 | Week 2-2 | Graph Embeddings: Random walks on graphs --> Embedding Nodes and Embedding Edges | Node2Vec, deepWalk and Edge2Vec |
-| Week 3-1 | Single Cell Day 1: Intro to single-cell proteomics, visualization, normalization, batch effect correction, automated cell-population discovery | spade |
+| Week 3-1 | Single Cell Day 1: Intro to single-cell proteomics, visualization, normalization, batch effect correction, imputation, automated cell-population discovery | spade, MAGIC |
 |Week 3-2 | Single Cell Day 2: Graph-based analysis of single-cell data | phenograph |
 | Week 4-1 | Single Cell Day 3: Feature Engineering from single-cell data and linking to external variables | Citrus, VoPo | 
 | Week 4-2 | Single Cell Day 4: Differential Analysis of Cell-Populations | Diffcyt, Cydar |
