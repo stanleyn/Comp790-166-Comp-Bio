@@ -45,7 +45,7 @@ Note that this is preliminary. Some topics may take on average a day longer than
 | Week 8-1 | Project Proposal Presentation Day 2 | |
 | Week 8-2 : **Homework 1 Due** | Single Cell Day 9: Benchmarking in Single-Cell Analysis | Aghaeepour et al |
 | Week 9-1 | Single Cell Day 10: Imaging Proteomics + Spatial Regularization : computational challeneges in combining tissue images and protein expression | |
-| Week 9-2 | Multiomics Day 1: Constructing a joint embedding of samples according to multiple modalities | SNF, grassmann embed |  
+| Week 9-2 | Multiomics Day 1: Constructing a joint embedding of samples according to multiple modalities, subspace merging | SNF, grassmann embed |  
 | Week 10-1 | Multiomics Day 2: MOFA-1 and MOFA-2: Multiomics Factor Analysis | MOFA-1, MOFA-2 | 
 | Week 10-2 | Multiomics Day 3: Uncovering Relationships Between Modalities | mmvec| 
 | Week 11-1 | Multiomics Day 4: Stacked Generalization and CCA in multiomics studies | Ghaemi |
