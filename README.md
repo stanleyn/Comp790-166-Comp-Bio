@@ -29,7 +29,7 @@ Most of the lectures will be based around several papers. To benefit your own un
 | Week 1-1    | Intro, biology primer, bioinformatics vs comp bio, big picture challenges     | Systems Immunology, Just Getting Started      |
 | Week 1-2    | Building graphs from data, matrix factorization, feature selection | |
 | Week 2-1 | Partitioning Graphs, Ranking Nodes | |
-| Week 2-2 | Graph Embeddings: Embedding Nodes and Embedding Edges | Node2Vec and Edge2Vec |
+| Week 2-2 | Graph Embeddings: Random walks on graphs --> Embedding Nodes and Embedding Edges | Node2Vec, deepWalk and Edge2Vec |
 | Week 3-1 | Single Cell Day 1: Intro to single-cell proteomics, visualization, normalization, batch effect correction, automated cell-population discovery | spade |
 |Week 3-2 | Single Cell Day 2: Graph-based analysis of single-cell data | phenograph |
 | Week 4-1 | Single Cell Day 3: Feature Engineering from single-cell data and linking to external variables | Citrus, VoPo | 
