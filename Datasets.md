@@ -20,11 +20,11 @@ The sky is the limit in the single cell world. Here are some concrete ideas:
   * Batch effects and clustering- if there are clear batches in the data, how do we take that into account?
   
 * **Predicting Patient Outcomes** : The overarching goal here is to extract information from the heteregenity within a single-cell dataset for downstream tasks. 
- * predict how a patient's immune system will look based on measurements from a previous timepoint
- * can you develop an approach to generate features from single cell data to accurately patients with different clinical outcomes
- * unsupervised questions: if we don't know what the patient labels are, can we extract features from the data 
- * twin studies: how can you use sets of twins to systematically study immune system differences?
- * Which type of immune features are associated with some continuous or ordinal variable (like time, or disease severity) 
+  * predict how a patient's immune system will look based on measurements from a previous timepoint
+  * can you develop an approach to generate features from single cell data to accurately patients with different clinical outcomes
+  * unsupervised questions: if we don't know what the patient labels are, can we extract features from the data 
+  * twin studies: how can you use sets of twins to systematically study immune system differences?
+  * Which type of immune features are associated with some continuous or ordinal variable (like time, or disease severity) 
  
  # Dataset Examples
  The most popular repositories for mass cytometry and flow cytometry datasets are flow repository (https://flowrepository.org/) and Immport (https://www.immport.org/shared/home) 
