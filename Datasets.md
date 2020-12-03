@@ -52,7 +52,7 @@ Mass cytometry data comes as a collection of .FCS files, where each file corresp
   * Sample Metadata : https://cdn.elifesciences.org/articles/56879/elife-56879-supp3-v2.docx
   * Paper: https://elifesciences.org/articles/56879.pdf 
   
-* [Mass Cytometry- Longitudinal] : **An Immune Clock of Healthy Human Pregnacy*
+* [Mass Cytometry- Longitudinal] : **An Immune Clock of Healthy Human Pregnacy**
   * FCS: https://flowrepository.org/id/FR-FCM-ZY3Q
   * Sample Metadata: Not given, but I can help you :)
   * Paper: https://pubmed.ncbi.nlm.nih.gov/28864494/
