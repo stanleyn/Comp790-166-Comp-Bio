@@ -94,11 +94,6 @@ How can we successfully integrate multiple biological modalities measured in a c
 
 Here are examples of data that is inherently a graph, or data that we could build a graph from. 
 
-## Types of Questions
- * **Graph partitioning** : Evaluating a partition, linking to external information, incoporating extra information into the problem (rather than just connectivity), speeding up existing methods through pre-processing. 
- * **Graph Representation** : What is the best way to represent the graph? How can your method to construct a graph scale to situations where there are portentially a very large number of nodes? 
- * **Ranking** : What are the most important parts of the graph, how do we identify them?
- 
  ## Dataset Examples
  
  * [Graph Partitioning] : **Disease Modeling DREAM Challenge on Graph Clustering**
@@ -112,6 +107,11 @@ Here are examples of data that is inherently a graph, or data that we could buil
 * [Microbiome Networks] : **Interspecies Microbial Correlation**
    * Data : https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1002687#s5 (see supporting information)
    * Paper : https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1002687#s5
+   
+## Types of Questions
+ * **Graph partitioning** : Evaluating a partition, linking to external information, incoporating extra information into the problem (rather than just connectivity), speeding up existing methods through pre-processing. 
+ * **Graph Representation** : What is the best way to represent the graph? How can your method to construct a graph scale to situations where there are portentially a very large number of nodes? 
+ * **Ranking** : What are the most important parts of the graph, how do we identify them?
    
    
  # Imaging Mass Cytometry (Images of cells + protein expression)
