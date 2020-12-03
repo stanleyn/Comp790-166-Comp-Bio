@@ -78,12 +78,12 @@ The sky is the limit in the single cell world. Here are some concrete ideas:
 How can we successfully integrate multiple biological modalities measured in a common set of patients.
 
 [TCGA Data (in an easy-to-use format)]: **Processed TCGA Data for Multiple Cancer Tyes**
-  Data: http://www.linkedomics.org/login.php
-  Paper: https://academic.oup.com/nar/article/46/D1/D956/4607804
+  * Data: http://www.linkedomics.org/login.php
+  * Paper: https://academic.oup.com/nar/article/46/D1/D956/4607804
   
 [Multiple Datasets in Term Pregnancy]: **7 Modalities Profiled for a Cohort of Healthy Women**
-  Data: https://nalab.stanford.edu/multiomics-pregnancy/
-  Paper: https://academic.oup.com/bioinformatics/article/35/1/95/5047759
+  * Data: https://nalab.stanford.edu/multiomics-pregnancy/
+  * Paper: https://academic.oup.com/bioinformatics/article/35/1/95/5047759
   
  # Biological Networks, Examining Correlation Structure.
 
