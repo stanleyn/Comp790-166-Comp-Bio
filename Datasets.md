@@ -7,26 +7,9 @@ The following are only suggestions. Please feel free to come with your own datas
 # Mass and Flow Cytometry Datasets
 
 ## General Pre-Processing Advice
-Mass cytometry data comes as a collection of .FCS files, where each file corresponds to an individual sample. For pre-processing, you will need to make sure you are only looking at appropriate markers (phenotypic and functional), and not those that were used to monitor how well the experiment went. 
+Mass cytometry data comes as a collection of .FCS files, where each file corresponds to an individual sample. For pre-processing, you will need to make sure you are only looking at appropriate markers (phenotypic and functional), and not those that were used to monitor how well the experiment went. Usually the paper corresponding to each dataset will have a table of the antibodies that were used. You should keep only columns that correspond to these. 
 
-## Types of Questions
-The sky is the limit in the single cell world. Here are some concrete ideas: 
-
-* **Clustering** : For a dataset with hundreds of samples you will have to deal with millions of cells. How do you cluster into coherent cell populations without losing too much information? Clustering on single-cell data has a lot of activity in the literature, so proceed with caution. 
-  * How well can you preserve small clusters that might not be found consistently across algorithms?
-  * How do you incorporate some notion of 'semi supervision', with regards to the patient outcomes or well-known canonical marker combinations?
-  * How can you make existing algorithms faster by doing some smart pre-processing of your dataset? 
-  * What do you do with the clusters? Try to come up with something useful to do with your cell populations. 
-  * Batch effects and clustering- if there are clear batches in the data, how do we take that into account?
-  
-* **Predicting Patient Outcomes** : The overarching goal here is to extract information from the heteregenity within a single-cell dataset for downstream tasks. 
-  * predict how a patient's immune system will look based on measurements from a previous timepoint
-  * can you develop an approach to generate features from single cell data to accurately patients with different clinical outcomes
-  * unsupervised questions: if we don't know what the patient labels are, can we extract features from the data 
-  * twin studies: how can you use sets of twins to systematically study immune system differences?
-  * Which type of immune features are associated with some continuous or ordinal variable (like time, or disease severity) 
- 
- ## Dataset Examples
+## Dataset Examples
  The most popular repositories for mass cytometry and flow cytometry datasets are flow repository (https://flowrepository.org/) and Immport (https://www.immport.org/shared/home) 
  
  * [Mass Cytometry-Longitudinal] : **The immune system in healthy vs. preeclamptic women during pregnancy**. 
@@ -74,6 +57,23 @@ The sky is the limit in the single cell world. Here are some concrete ideas:
   * Sample Metadata: https://github.com/lmweber/diffcyt-evaluations (check depending on which sub dataset)
   * Paper: https://www.nature.com/articles/s42003-019-0415-5 
   
+## Types of Questions
+The sky is the limit in the single cell world. Here are some concrete ideas: 
+
+* **Clustering** : For a dataset with hundreds of samples you will have to deal with millions of cells. How do you cluster into coherent cell populations without losing too much information? Clustering on single-cell data has a lot of activity in the literature, so proceed with caution. 
+  * How well can you preserve small clusters that might not be found consistently across algorithms?
+  * How do you incorporate some notion of 'semi supervision', with regards to the patient outcomes or well-known canonical marker combinations?
+  * How can you make existing algorithms faster by doing some smart pre-processing of your dataset? 
+  * What do you do with the clusters? Try to come up with something useful to do with your cell populations. 
+  * Batch effects and clustering- if there are clear batches in the data, how do we take that into account?
+  
+* **Predicting Patient Outcomes** : The overarching goal here is to extract information from the heteregenity within a single-cell dataset for downstream tasks. 
+  * predict how a patient's immune system will look based on measurements from a previous timepoint
+  * can you develop an approach to generate features from single cell data to accurately patients with different clinical outcomes
+  * unsupervised questions: if we don't know what the patient labels are, can we extract features from the data 
+  * twin studies: how can you use sets of twins to systematically study immune system differences?
+  * Which type of immune features are associated with some continuous or ordinal variable (like time, or disease severity)
+  
 # Multiomics Datasets
 How can we successfully integrate multiple biological modalities measured in a common set of patients.
 
@@ -107,5 +107,20 @@ Here are examples of data that is inherently a graph, or data that we could buil
 * [Microbiome Networks] : **Interspecies Microbial Correlation**
    * Data : https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1002687#s5 (see supporting information)
    * Paper : https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1002687#s5
+   
+   
+ # Imaging Mass Cytometry (Images of cells + protein expression)
+ 
+ On top of the regular challenges associated with studying image data, here you need to incorporate another source of information, which is the expression of multiple proteins. 
+ 
+ * [Imaging Cytometry] : **histocat**
+   * Data : https://github.com/BodenmillerGroup/histoCAT (see tutorials for examples)
+   * Paper : https://www.nature.com/articles/nmeth.4391
+   
+ * [Imaging Cytometry] : **IMCTools**
+   * Data : https://github.com/BodenmillerGroup/imctools
+   * Paper : https://www.nature.com/articles/s43018-020-0026-6#data-availability
+   
+ * [General Microscopy Data] : https://idr.openmicroscopy.org/ 
    
   
