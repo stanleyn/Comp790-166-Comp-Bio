@@ -26,13 +26,18 @@ The sky is the limit in the single cell world. Here are some concrete ideas:
   * twin studies: how can you use sets of twins to systematically study immune system differences?
   * Which type of immune features are associated with some continuous or ordinal variable (like time, or disease severity) 
  
- # Dataset Examples
+ ## Dataset Examples
  The most popular repositories for mass cytometry and flow cytometry datasets are flow repository (https://flowrepository.org/) and Immport (https://www.immport.org/shared/home) 
  
  * [Mass Cytometry-Longitudinal] : **The immune system in healthy vs. preeclamptic women during pregnancy**. 
    * FCS Files: https://flowrepository.org/id/FR-FCM-ZYRQ
    * Sample Metadata: https://flowrepository.org/experiments/1914/attachments/4206/download
    * Paper: https://www.frontiersin.org/articles/10.3389/fimmu.2019.01305/full?source=post_page---------------------------
+   
+ * [Mass Cytometry- Longitudinal] : **Looking at the effects of Dengue Virus on dendritic cells**
+   * FCS Files: https://flowrepository.org/id/FR-FCM-ZY87
+   * Sample Metadata: https://flowrepository.org/id/FR-FCM-ZY87 (see experiment variables in the experimental overview section. Explains samples according to individual, timepoint and condition).
+   * Paper: https://pubmed.ncbi.nlm.nih.gov/28679950/ 
  
  * [Flow Cytometry- Healthy vs AML] : ** **FlowCAP Challenge Dataset** 
    * FCS files: https://flowrepository.org/id/FR-FCM-ZZYA
