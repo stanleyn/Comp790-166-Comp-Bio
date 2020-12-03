@@ -49,4 +49,14 @@ The sky is the limit in the single cell world. Here are some concrete ideas:
    * Sample Metadata: https://flowrepository.org/id/FR-FCM-ZZYA (see experiment variables in the experiment overview section)
    * Paper : https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3906045/
    
+* [Mass Cytometry- Longitudinal] : **Predicting Covid-19 Severity**
+  * FCS Files: https://ki.app.box.com/s/sby0jesyu23a65cbgv51vpbzqjdmipr1?page=1
+  * Sample Metadata: https://www.sciencedirect.com/science/article/pii/S2666379120300999 (see Figure 2)
+  * Paper : https://www.sciencedirect.com/science/article/pii/S2666379120300999
+  
+* [Mass Cytometry-Longitudinal] : **Longitduinal Recovery of Patients from Stroke**
+  * FCS Files : https://flowrepository.org/id/FR-FCM-ZYSB
+  * Sample Metadata : https://flowrepository.org/experiments/1931/attachments/4257/download
+  * Paper : https://academic.oup.com/brain/article-abstract/142/4/978/5373058 
+   
   
