@@ -91,11 +91,11 @@ Here are examples of data that is inherently a graph, or data that we could buil
    * Paper : https://www.nature.com/articles/s41592-019-0509-5
    
  * [Inter-modality between-feature correlation] : **Genetic Dependency and LargeScale Screens**
-  * Data: https://depmap.org/portal/download/
-  * Paper : https://depmap.org/portal/
+   * Data: https://depmap.org/portal/download/
+   * Paper : https://depmap.org/portal/
   
 * [Microbiome Networks] : **Interspecies Microbial Correlation**
-  * Data : https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1002687#s5 (see supporting information)
-  * Paper : https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1002687#s5
+   * Data : https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1002687#s5 (see supporting information)
+   * Paper : https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1002687#s5
    
   
