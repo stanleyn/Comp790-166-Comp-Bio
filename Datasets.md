@@ -58,5 +58,20 @@ The sky is the limit in the single cell world. Here are some concrete ideas:
   * FCS Files : https://flowrepository.org/id/FR-FCM-ZYSB
   * Sample Metadata : https://flowrepository.org/experiments/1931/attachments/4257/download
   * Paper : https://academic.oup.com/brain/article-abstract/142/4/978/5373058 
+  
+* [Mass Cytometry- Cross-Species Immune Atlas] : **Immunophenotyping Across Multiple Species**
+  * FCS Files: https://flowrepository.org/id/FR-FCM-Z2ZY
+  * Sample Metadata: https://flowrepository.org/id/FR-FCM-Z2ZY (see Download Attachments in Experiment Overview Section)
+  * Paper : https://www.biorxiv.org/content/10.1101/574160v1 
+  
+* [Mass Cytometry- Patient Survival Analysis] : **Predicting Survival from Glioblastoma**
+  * FCS Files : https://flowrepository.org/id/FR-FCM-Z24K
+  * Sample Metadata : https://cdn.elifesciences.org/articles/56879/elife-56879-supp3-v2.docx
+  * Paper: https://elifesciences.org/articles/56879.pdf 
+  
+* [Mass Cytometry- Differential Abundance, Patient Classification] **3 datasets from diffcyt paper (differential abundance analysis)
+  * FCS Files: https://flowrepository.org/id/FR-FCM-ZYL8
+  * Sample Metadata: https://github.com/lmweber/diffcyt-evaluations (check depending on which sub dataset)
+  * Paper: https://www.nature.com/articles/s42003-019-0415-5 
    
   
