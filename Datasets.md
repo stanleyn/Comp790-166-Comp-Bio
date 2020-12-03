@@ -52,7 +52,7 @@ Mass cytometry data comes as a collection of .FCS files, where each file corresp
   * Sample Metadata : https://cdn.elifesciences.org/articles/56879/elife-56879-supp3-v2.docx
   * Paper: https://elifesciences.org/articles/56879.pdf 
   
-* [Mass Cytometry- Differential Abundance, Patient Classification] **3 datasets from diffcyt paper (differential abundance analysis)
+* [Mass Cytometry- Differential Abundance, Patient Classification] **3 datasets from diffcyt paper (differential abundance analysis)**
   * FCS Files: https://flowrepository.org/id/FR-FCM-ZYL8
   * Sample Metadata: https://github.com/lmweber/diffcyt-evaluations (check depending on which sub dataset)
   * Paper: https://www.nature.com/articles/s42003-019-0415-5 
