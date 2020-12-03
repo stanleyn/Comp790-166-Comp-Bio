@@ -73,5 +73,29 @@ The sky is the limit in the single cell world. Here are some concrete ideas:
   * FCS Files: https://flowrepository.org/id/FR-FCM-ZYL8
   * Sample Metadata: https://github.com/lmweber/diffcyt-evaluations (check depending on which sub dataset)
   * Paper: https://www.nature.com/articles/s42003-019-0415-5 
+  
+
+# Biological Networks, Examining Correlation Structure.
+
+Here are examples of data that is inherently a graph, or data that we could build a graph from. 
+
+## Types of Questions
+ * **Graph partitioning** : Evaluating a partition, linking to external information, incoporating extra information into the problem (rather than just connectivity), speeding up existing methods through pre-processing. 
+ * **Graph Representation** : What is the best way to represent the graph? How can your method to construct a graph scale to situations where there are portentially a very large number of nodes? 
+ * **Ranking** : What are the most important parts of the graph, how do we identify them?
+ 
+ ## Dataset Examples
+ 
+ * [Graph Partitioning] : **Disease Modeling DREAM Challenge on Graph Clustering**
+   * Data: https://www.synapse.org/#!Synapse:syn6156761/wiki/400645
+   * Paper : https://www.nature.com/articles/s41592-019-0509-5
+   
+ * [Inter-modality between-feature correlation] : **Genetic Dependency and LargeScale Screens**
+  * Data: https://depmap.org/portal/download/
+  * Paper : https://depmap.org/portal/
+  
+* [Microbiome Networks] : **Interspecies Microbial Correlation**
+  * Data : https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1002687#s5 (see supporting information)
+  * Paper : https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1002687#s5
    
   
