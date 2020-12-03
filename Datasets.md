@@ -75,11 +75,17 @@ The sky is the limit in the single cell world. Here are some concrete ideas:
   * Paper: https://www.nature.com/articles/s42003-019-0415-5 
   
 # Multiomics Datasets
+How can we successfully integrate multiple biological modalities measured in a common set of patients.
 
 [TCGA Data (in an easy-to-use format)]: **Processed TCGA Data for Multiple Cancer Tyes**
+  Data: http://www.linkedomics.org/login.php
+  Paper: https://academic.oup.com/nar/article/46/D1/D956/4607804
   
-
-# Biological Networks, Examining Correlation Structure.
+[Multiple Datasets in Term Pregnancy]: **7 Modalities Profiled for a Cohort of Healthy Women**
+  Data: https://nalab.stanford.edu/multiomics-pregnancy/
+  Paper: https://academic.oup.com/bioinformatics/article/35/1/95/5047759
+  
+ # Biological Networks, Examining Correlation Structure.
 
 Here are examples of data that is inherently a graph, or data that we could build a graph from. 
 
