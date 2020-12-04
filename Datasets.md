@@ -122,7 +122,7 @@ Here are examples of data that is inherently a graph, or data that we could buil
    * Data : https://github.com/BodenmillerGroup/histoCAT (see tutorials for examples)
    * Paper : https://www.nature.com/articles/nmeth.4391
    
- * [Imaging Cytometry] : **IMCTools**
+ * [Imaging Cytometry] : **IMCTools** (see tutorials for examples)
    * Data : https://github.com/BodenmillerGroup/imctools
    * Paper : https://www.nature.com/articles/s43018-020-0026-6#data-availability
    
