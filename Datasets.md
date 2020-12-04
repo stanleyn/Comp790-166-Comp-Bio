@@ -7,7 +7,7 @@ The following are only suggestions. Please feel free to come with your own datas
 # Mass and Flow Cytometry Datasets
 
 ## General Pre-Processing Advice
-Mass cytometry data comes as a collection of .FCS files, where each file corresponds to an individual sample. For pre-processing, you will need to make sure you are only looking at appropriate markers (phenotypic and functional), and not those that were used to monitor how well the experiment went. Usually the paper corresponding to each dataset will have a table of the antibodies that were used. You should keep only columns that correspond to these. 
+Mass cytometry data comes as a collection of .FCS files, where each file corresponds to an individual sample. For pre-processing, you will need to make sure you are only looking at appropriate markers (phenotypic and functional), and not those that were used to monitor how well the experiment went (such as DNA markers, barcoding, etc). Usually the paper corresponding to each dataset will have a table of the antibodies that were used. You should keep only columns that correspond to these. 
 
 ## Dataset Examples
  The most popular repositories for mass cytometry and flow cytometry datasets are flow repository (https://flowrepository.org/) and Immport (https://www.immport.org/shared/home) 
