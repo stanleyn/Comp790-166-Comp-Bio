@@ -58,9 +58,9 @@ Mass cytometry data comes as a collection of .FCS files, where each file corresp
   * Paper: https://pubmed.ncbi.nlm.nih.gov/28864494/
   
  * [Mass Cytometry- Differential Abundance, Patient Classification] **3 datasets from diffcyt paper (differential abundance analysis)**
-  * FCS Files: https://flowrepository.org/id/FR-FCM-ZYL8
-  * Sample Metadata: https://github.com/lmweber/diffcyt-evaluations (check depending on which sub dataset)
-  * Paper: https://www.nature.com/articles/s42003-019-0415-5 
+   * FCS Files: https://flowrepository.org/id/FR-FCM-ZYL8
+   * Sample Metadata: https://github.com/lmweber/diffcyt-evaluations (check depending on which sub dataset)
+   * Paper: https://www.nature.com/articles/s42003-019-0415-5 
   
 ## Types of Questions
 The sky is the limit in the single cell world. Here are some concrete ideas: 
