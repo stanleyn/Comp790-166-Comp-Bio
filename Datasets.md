@@ -1,6 +1,6 @@
 # Purpose 
 
-Here is a list of publicly available and easy to download datasets that can be used for projects. I also provide an example of the type of question that you could ask for each dataset. They are categorized here generally my modality (e.g. mass cytometry) or by theme (multiomics,images,longitudinal). I am only providing datasets here that are well described and annotated to facilitate prediction, etc with minimal pre-processing. 
+Here is a list of publicly available and easy to download datasets that can be used for projects. They are categorized here generally by modality (e.g. mass cytometry) or by theme (multiomics,images,longitudinal). I am only providing datasets here that are well described and annotated to facilitate prediction, with very minimal pre-processing. 
 
 The following are only suggestions. Please feel free to come with your own datasets and questions!
 
@@ -114,7 +114,7 @@ Here are examples of data that is inherently a graph, or data that we could buil
  * **Ranking** : What are the most important parts of the graph, how do we identify them?
    
    
- # Imaging Mass Cytometry (Images of cells + protein expression)
+ # Imaging Mass Cytometry (Images of tissue + protein expression)
  
  On top of the regular challenges associated with studying image data, here you need to incorporate another source of information, which is the expression of multiple proteins. 
  
