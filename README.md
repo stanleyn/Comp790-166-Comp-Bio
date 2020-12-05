@@ -90,7 +90,7 @@ For each class, I will update the papers that we will go over in above table. Yo
 6) What is one follow-up idea or extension from this work? 
 
 ## Final Project
-I will provide you with several examples of publicly available biological datasets and problems. Half-way through the semester, you will submit your project proposal and present your idea to the class.  The proposal will be a short document describing 1) The problem 2) A background on other people's attempts to solve this problem and 3) A background on your idea of a solution and 4) the data you will use to test your method. At the end of the semester you will write a short paper explaining your method and results and present your results.
+I will provide you with several examples of publicly available biological datasets and problems (https://github.com/stanleyn/Comp790-166-Comp-Bio/blob/main/Datasets.md). Half-way through the semester, you will submit your project proposal and present your idea to the class.  The proposal will be a short document describing 1) The problem 2) A background on other people's attempts to solve this problem and 3) A background on your idea of a solution and 4) the data you will use to test your method. At the end of the semester you will write a short paper explaining your method and results and present your results.
 
 ## Grading
  Grading will be based on the following
