@@ -24,7 +24,7 @@ Most of the lectures will be based around several papers. To benefit your own un
 
 # Schedule
 
-Note that this is preliminary. Some topics may take on average a day longer than planned. :) 
+Note that this is preliminary. Some topics may take (on average) 1 day longer than planned. 
 
 | Date | Topic | Reading | Notes |
 |------|-------|---------|-------|
