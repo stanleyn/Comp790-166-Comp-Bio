@@ -32,31 +32,31 @@ Note that this is preliminary. Some topics may take (on average) 1 day longer th
 | Week 1-2    | Building graphs from data, graph laplacian, matrix decomposition, low rank appropximations | [[SLMP. pages 10-22](https://arxiv.org/abs/2004.07984)], [[LargeVis](https://arxiv.org/abs/1602.00370)] **reading summary on LargeVis** |  | [[LargeVis](https://github.com/lferry007/LargeVis)][[graph tools for python](https://github.com/stanleyn/graphtools)] |
 | Week 2-1 | Partitioning Graphs, Ranking Nodes | [[Louvain](https://iopscience.iop.org/article/10.1088/1742-5468/2008/10/P10008/meta)], [[Neighborhood PageRank and Link Prediction](https://www.cs.purdue.edu/homes/dgleich/publications/Nassar%202020%20-%20pairwise%20prediction.pdf)] **no reading summary** |  | [[Louvain](https://github.com/vtraag/louvain-igraph)] |
 | Week 2-2 | Random walks on graphs, Graph Embeddings, Graph Diffusion --> Embedding Nodes and Embedding Edges | [[Node2Vec](https://dl.acm.org/doi/pdf/10.1145/2939672.2939754?casa_token=vQTboPUL6qIAAAAA:XQsAUtXd4MyWfj1ClUBw8FKhuPbpqO-aE2d7EDs5iX9-jJZP9BuxDbKUjg3CM69YKHALjCAKJtJx)], [[Edge2Vec](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-019-2914-2)] | | [[node2vec](https://github.com/aditya-grover/node2vec)], [[edge2vec](https://github.com/RoyZhengGao/edge2vec)] |
-| Week 3-1| Graph Signal Processing | [[Review on GSP](https://arxiv.org/abs/1211.0053)], [[PHATE](https://www.nature.com/articles/s41587-019-0336-3)] | | [[PHATE](https://github.com/KrishnaswamyLab/PHATE) | 
-| Week 3-1 | Single Cell Day 1: Intro to single-cell profiling, normalization, batch effect correction, imputation in single-cell analysis, automated cell-population discovery, visualization | [[Spade](https://www.nature.com/articles/nbt.1991)], [[MAGIC](https://www.biorxiv.org/content/10.1101/111591v1)] | | [[FCS file tutorial](https://github.com/stanleyn/fcs_tutorial)], [[MAGIC](https://github.com/KrishnaswamyLab/MAGIC)] |
-|Week 3-2 | Single Cell Day 2: Graph-based analysis of single-cell data | [[phenograph](https://www.sciencedirect.com/science/article/pii/S0092867415006376)] | | [[phenograph](https://github.com/JinmiaoChenLab/Rphenograph)], [[FastPG](https://github.com/sararselitsky/FastPG)] |
-| Week 4-1 | Single Cell Day 3: Feature Engineering from single-cell data and linking to external variables | Citrus, VoPo, MELD | 
-| Week 4-2 | Single Cell Day 4: Differential Analysis of Cell-Populations | Diffcyt, Cydar |
-| Week 5-1 | Single Cell Day 5: Graph-based matching of single-cell data | Conos, LIGER
-| Week 5-2 | Single Cell Day 6: Deep Learning for Single Cell Tasks | SAUCIE, CellCNN |
-| Week 6-1 | Single Cell Day 7: Semi-Supervised Automated Cell-Population Discovery | MARS| 
-| Week 6-2 | Single Cell Day 7: Trajectory Inference | |
-| Week 7-1 | Single Cell Day 8: Benchmarking in Trajectory Inference | |
-| Week 7-2 : **Project Proposals Due** | Presentations of Project Propsals Day 1 | |
-| Week 8-1 | Project Proposal Presentation Day 2 | |
-| Week 8-2 : **Homework 1 Due** | Single Cell Day 9: Benchmarking in Single-Cell Analysis | Aghaeepour et al |
-| Week 9-1 | Single Cell Day 10: Imaging Proteomics + Spatial Regularization : computational challeneges in combining tissue images and protein expression | |
-| Week 9-2 | Multiomics Day 1: Constructing a joint embedding of samples according to multiple modalities, subspace merging | SNF, grassmann embed |  
-| Week 10-1 | Multiomics Day 2: MOFA-1 and MOFA-2: Multiomics Factor Analysis | MOFA-1, MOFA-2 | 
-| Week 10-2 | Multiomics Day 3: Uncovering Relationships Between Modalities | mmvec| 
-| Week 11-1 | Multiomics Day 4: Stacked Generalization and CCA in multiomics studies | Ghaemi |
-| Week 11-2 | Multiomics Day 5: Benchmarking in multiomics studies | |
-|Week 12-1  | Incorporating Prior Biological Knowledge into Analysis | |
-|Week 12-2 : **Homework 2 Due** |  Systems Immunology Topic: TCR/BCR (T and B cell receptor reperotire analysis) | | 
-|Week 13-1 | Partial Correlation, Thresholding etc for Identifying Meaningful Interactions | | 
-|Week 13-2 | Enrichment Analysis, writing for an interdiscplinary audience | | 
-|Week 14-1 | Project Presentations Day 1 | |
-|Week 14-2 | Project Presentations Day 2 | |
+| Week 3-1| Graph Signal Processing | [[Review on GSP](https://arxiv.org/abs/1211.0053)], [[PHATE](https://www.nature.com/articles/s41587-019-0336-3)] **reading summary on PHATE** | | [[PHATE](https://github.com/KrishnaswamyLab/PHATE)] | 
+| Week 3-2 | Single Cell Day 1: Intro to single-cell profiling, normalization, batch effect correction, imputation in single-cell analysis, automated cell-population discovery, visualization | [[Spade](https://www.nature.com/articles/nbt.1991)], [[MAGIC](https://www.biorxiv.org/content/10.1101/111591v1)] | | [[FCS file tutorial](https://github.com/stanleyn/fcs_tutorial)], [[MAGIC](https://github.com/KrishnaswamyLab/MAGIC)] |
+|Week 4-1 | Single Cell Day 2: Graph-based analysis of single-cell data | [[phenograph](https://www.sciencedirect.com/science/article/pii/S0092867415006376)] | | [[phenograph](https://github.com/JinmiaoChenLab/Rphenograph)], [[FastPG](https://github.com/sararselitsky/FastPG)] |
+| Week 4-2 | Single Cell Day 3: Feature Engineering from single-cell data and linking to external variables | Citrus, VoPo, MELD | 
+| Week 5-1 | Single Cell Day 4: Differential Analysis of Cell-Populations | Diffcyt, Cydar |
+| Week 5-2 | Single Cell Day 5: Graph-based matching of single-cell data | Conos, LIGER
+| Week 6-2 | Single Cell Day 6: Deep Learning for Single Cell Tasks | SAUCIE, CellCNN |
+| Week 6-2 | Single Cell Day 7: Semi-Supervised Automated Cell-Population Discovery | MARS| 
+| Week 7-1 | Single Cell Day 7: Trajectory Inference | |
+| Week 7-2 | Single Cell Day 8: Benchmarking in Trajectory Inference | |
+| Week 8-1 : **Project Proposals Due** | Presentations of Project Propsals Day 1 | |
+| Week 8-2 | Project Proposal Presentation Day 2 | |
+| Week 9-1 : **Homework 1 Due** | Single Cell Day 9: Benchmarking in Single-Cell Analysis | Aghaeepour et al |
+| Week 9-2 | Single Cell Day 10: Imaging Proteomics + Spatial Regularization : computational challeneges in combining tissue images and protein expression | |
+| Week 10-1 | Multiomics Day 1: Constructing a joint embedding of samples according to multiple modalities, subspace merging | SNF, grassmann embed |  
+| Week 10-2 | Multiomics Day 2: MOFA-1 and MOFA-2: Multiomics Factor Analysis | MOFA-1, MOFA-2 | 
+| Week 11-1 | Multiomics Day 3: Uncovering Relationships Between Modalities | mmvec| 
+| Week 11-2 | Multiomics Day 4: Stacked Generalization and CCA in multiomics studies | Ghaemi |
+| Week 12-1 | Multiomics Day 5: Benchmarking in multiomics studies | |
+|Week 12-2  | Incorporating Prior Biological Knowledge into Analysis | |
+|Week 13-1 : **Homework 2 Due** |  Systems Immunology Topic: TCR/BCR (T and B cell receptor reperotire analysis) | | 
+|Week 13-2 | Partial Correlation, Thresholding etc for Identifying Meaningful Interactions | | 
+|Week 14-1 | Enrichment Analysis, writing for an interdiscplinary audience | | 
+|Week 14-2 | Project Presentations Day 1 | |
+|Week 15-1 | Project Presentations Day 2 | |
 |Final Exam Day | Project papers due | |
 
 # Homework, Project, Reading, Grading, Etc
