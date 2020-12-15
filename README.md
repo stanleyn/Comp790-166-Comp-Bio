@@ -66,9 +66,9 @@ There will be two homework assignments to practice implementing particular conce
 ## Background Resources
 Most of what we discuss in class will come from papers. However, I suggest the following textbooks as background references. Conveniently, they are also available for free.
 
-* Pattern Recognition and Machine Learning-- Chris Bishop // [CB] (http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf)
+* Pattern Recognition and Machine Learning-- Chris Bishop // [CB](http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf)
 
-* Spectral Learning on Matrices and Tensors -- Majid Janzamin et al. [SL] (https://arxiv.org/abs/2004.07984)
+* Spectral Learning on Matrices and Tensors -- Majid Janzamin et al. [SL](https://arxiv.org/abs/2004.07984)
 
 * The Elements of Statistical Learning -- Hastie et al. // https://web.stanford.edu/~hastie/ElemStatLearn/
 
