@@ -70,9 +70,7 @@ Most of what we discuss in class will come from papers. However, I suggest the f
 
 * [SLMP] Spectral Learning on Matrices and Tensors -- Majid Janzamin et al. [[Link](https://arxiv.org/abs/2004.07984)]
 
-* The Elements of Statistical Learning -- Hastie et al. // https://web.stanford.edu/~hastie/ElemStatLearn/
-
-* The Matrix Cookbook // https://www.math.uwaterloo.ca/~hwolkowi/matrixcookbook.pdf
+* The Matrix Cookbook [[Link](https://www.math.uwaterloo.ca/~hwolkowi/matrixcookbook.pdf)]
 
 ## Readings
 For each class, I will update the papers that we will go over in above table. You will only be required to write a summary of one of the potentially multiple papers assigned for that day.
