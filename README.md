@@ -68,7 +68,7 @@ Most of what we discuss in class will come from papers. However, I suggest the f
 
 * Pattern Recognition and Machine Learning-- Chris Bishop // http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf
 
-* Lineat Algebra Abridged -- Sheldon Axler // https://linear.axler.net/LinearAbridged.pdf
+* Spectral Learning on Matrices and Tensors -- Majid Janzamin et al. // https://arxiv.org/abs/2004.07984
 
 * The Elements of Statistical Learning -- Hastie et al. // https://web.stanford.edu/~hastie/ElemStatLearn/
 
