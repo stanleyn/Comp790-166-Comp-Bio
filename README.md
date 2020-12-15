@@ -35,7 +35,7 @@ Note that this is preliminary. Some topics may take (on average) 1 day longer th
 | Week 3-1| Graph Signal Processing | [[Review on GSP](https://arxiv.org/abs/1211.0053)], [[PHATE](https://www.nature.com/articles/s41587-019-0336-3)] **reading summary on PHATE** | | [[PHATE](https://github.com/KrishnaswamyLab/PHATE)] | 
 | Week 3-2 | Single Cell Day 1: Intro to single-cell profiling, normalization, batch effect correction, imputation in single-cell analysis, automated cell-population discovery, visualization | [[Spade](https://www.nature.com/articles/nbt.1991)], [[MAGIC](https://www.biorxiv.org/content/10.1101/111591v1)] | | [[FCS file tutorial](https://github.com/stanleyn/fcs_tutorial)], [[MAGIC](https://github.com/KrishnaswamyLab/MAGIC)] |
 |Week 4-1 | Single Cell Day 2: Graph-based analysis of single-cell data | [[phenograph](https://www.sciencedirect.com/science/article/pii/S0092867415006376)] | | [[phenograph](https://github.com/JinmiaoChenLab/Rphenograph)], [[FastPG](https://github.com/sararselitsky/FastPG)] |
-| Week 4-2 | Single Cell Day 3: Feature Engineering from single-cell data and linking to external variables | Citrus, VoPo, MELD | 
+| Week 4-2 | Single Cell Day 3: Feature Engineering from single-cell data and linking to external variables | Citrus, VoPo, [[MELD](https://www.biorxiv.org/content/10.1101/532846v4)] | 
 | Week 5-1 | Single Cell Day 4: Differential Analysis of Cell-Populations | Diffcyt, Cydar |
 | Week 5-2 | Single Cell Day 5: Graph-based matching of single-cell data | Conos, LIGER
 | Week 6-2 | Single Cell Day 6: Deep Learning for Single Cell Tasks | SAUCIE, CellCNN |
