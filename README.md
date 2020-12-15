@@ -28,7 +28,7 @@ Note that this is preliminary. Some topics may take on average a day longer than
 
 | Date | Topic | Reading | Notes |
 |------|-------|---------|-------|
-| Week 1-1    | Intro, bioinformatics vs comp bio, big picture challenges, bio primer     | Systems Immunology, Just Getting Started      | [Lecture 1 Notes](https://github.com/stanleyn/Comp790-166-Comp-Bio/blob/main/Lecture1_intro.pdf) |
+| Week 1-1    | Intro, bioinformatics vs comp bio, big picture challenges, bio primer     | Systems Immunology, Just Getting Started      | [Lecture 1 Notes](https://github.com/stanleyn/Comp790-166-Comp-Bio/blob/main/Lecture_Notes/Lecture1_intro.pdf) |
 | Week 1-2    | Building graphs from data, graph laplacian, matrix decomposition, low rank appropximations | |
 | Week 2-1 | Partitioning Graphs, Ranking Nodes | |
 | Week 2-2 | Graph Embeddings: Random walks on graphs --> Embedding Nodes and Embedding Edges | Node2Vec, deepWalk and Edge2Vec |
