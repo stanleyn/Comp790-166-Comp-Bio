@@ -29,7 +29,7 @@ Note that this is preliminary. Some topics may take (on average) 1 day longer th
 | Date | Topic | Reading | Notes | Code |
 |------|-------|---------|-------|------|
 | Week 1-1    | Intro, bioinformatics vs comp bio, big picture challenges, bio primer     | [[Systems Immunology, Just Getting Started](https://pubmed.ncbi.nlm.nih.gov/28632713/)] | [Lecture 1 Notes](https://github.com/stanleyn/Comp790-166-Comp-Bio/blob/main/Lecture_Notes/Lecture1_intro.pdf) | | |
-| Week 1-2    | Building graphs from data, graph laplacian, matrix decomposition, low rank appropximations | [[SLMP. pages 10-22](https://arxiv.org/abs/2004.07984)]; [[LargeVis](https://arxiv.org/abs/1602.00370)] **reading summary on LargeVis** | [[LargeVis(https://github.com/lferry007/LargeVis)] | |
+| Week 1-2    | Building graphs from data, graph laplacian, matrix decomposition, low rank appropximations | [[SLMP. pages 10-22](https://arxiv.org/abs/2004.07984)]; [[LargeVis](https://arxiv.org/abs/1602.00370)] **reading summary on LargeVis** |  | [[LargeVis](https://github.com/lferry007/LargeVis)] |
 | Week 2-1 | Partitioning Graphs, Ranking Nodes | [[Louvain](https://iopscience.iop.org/article/10.1088/1742-5468/2008/10/P10008/meta)]; [[Neighborhood PageRank and Link Prediction](https://www.cs.purdue.edu/homes/dgleich/publications/Nassar%202020%20-%20pairwise%20prediction.pdf)] **no reading summary** |
 | Week 2-2 | Graph Embeddings: Random walks on graphs --> Embedding Nodes and Embedding Edges | Node2Vec, deepWalk and Edge2Vec |
 | Week 3-1 | Single Cell Day 1: Intro to single-cell proteomics, visualization, normalization, batch effect correction, imputation in single-cell analysis, automated cell-population discovery | spade, MAGIC |
