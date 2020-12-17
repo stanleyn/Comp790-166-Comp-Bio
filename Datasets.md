@@ -16,7 +16,12 @@ Mass cytometry data comes as a collection of .FCS files, where each file corresp
    * FCS Files: https://flowrepository.org/id/FR-FCM-ZYRQ
    * Sample Metadata: https://flowrepository.org/experiments/1914/attachments/4206/download
    * Paper: https://www.frontiersin.org/articles/10.3389/fimmu.2019.01305/full?source=post_page---------------------------
-   
+  
+* [Mass Cytometry- Tracectory, Single Cell Time Course] : **invitro stem-cell differentiation**
+  * FCS Files: https://community.cytobank.org/cytobank/experiments/71953
+  * Sample Metadata: https://community.cytobank.org/cytobank/experiments/71953 filenames (ex _Day00) 
+  * Paper: https://www.nature.com/articles/s41596-019-0246-3
+  
  * [Mass Cytometry- Longitudinal] : **Looking at the effects of Dengue Virus on dendritic cells**
    * FCS Files: https://flowrepository.org/id/FR-FCM-ZY87
    * Sample Metadata: https://flowrepository.org/id/FR-FCM-ZY87 (see experiment variables in the experimental overview section. Explains samples according to individual, timepoint and condition).
