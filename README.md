@@ -24,7 +24,7 @@ Most of the lectures will be based around several papers. To benefit your own un
 
 # Schedule
 
-Note that this is preliminary. Some topics may take (on average) 1 day longer than planned. 
+Note that this is preliminary. Some topics may take (on average) 1 day longer than planned. I reserve the right to correct typos in the slides up to 1hr before our class meeting. 
 
 | Date | Topic | Reading | Notes | Code |
 |------|-------|---------|-------|------|
