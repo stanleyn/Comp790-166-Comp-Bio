@@ -39,7 +39,7 @@ Note that this is preliminary. Some topics may take (on average) 1 day longer th
 | Week 5-1 | Single Cell Day 4: Differential Analysis of Cell-Populations | Diffcyt, Cydar |
 | Week 5-2 | Single Cell Day 5: Graph-based matching of single-cell data | Conos, LIGER
 | Week 6-2 | Single Cell Day 6: Deep Learning for Single Cell Tasks | SAUCIE, CellCNN |
-| Week 6-2 | Single Cell Day 7:  **Special Guest lecture by [Maria Brbic (Stanford CS)](https://cs.stanford.edu/~mbrbic/)** : Semi-Supervised Automated Cell-Population Discovery: | MARS| 
+| Week 6-2 | Single Cell Day 7:  **Guest lecture by [Maria Brbic (Stanford CS)](https://cs.stanford.edu/~mbrbic/)** : Semi-Supervised Automated Cell-Population Discovery: | MARS| 
 | Week 7-1 | Single Cell Day 7: Trajectory Inference | |
 | Week 7-2 | Single Cell Day 8: Benchmarking in Trajectory Inference | |
 | Week 8-1 : **Project Proposals Due** | Presentations of Project Propsals Day 1 | |
