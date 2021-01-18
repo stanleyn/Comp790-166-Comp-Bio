@@ -80,6 +80,8 @@ For each class, I will update the papers that we will go over in above table. Yo
 
 ### Reading Questions
 
+**Please turn these in by the time of our class meeting 9:30 am to natalies+comp790@cs.unc.edu**. 
+
 1) Please explain in 2 sentences or less what the problem being solved is.
 
 2) What were the main contributions of the authors in this work? (You can answer in a few bullet points). 
