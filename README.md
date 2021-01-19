@@ -80,7 +80,7 @@ For each class, I will update the papers that we will go over in above table. Yo
 
 ### Reading Questions
 
-**Please turn these in by the time of our class meeting 9:30 am to natalies+comp790@cs.unc.edu**. 
+**Please choose one paper per week to turn in by the time of our class meeting 9:30 am to natalies+comp790@cs.unc.edu**. 
 
 1) Please explain in 2 sentences or less what the problem being solved is.
 
@@ -106,3 +106,11 @@ I will provide you with several examples of publicly available biological datase
 4) Project Proposal : 10%
 5) Project final writeup: 30%
 
+## Accessibility Statement
+The University of North Carolina at Chapel Hill facilitates the implementation of reasonable accommodations, including resources and services, for students with disabilities, chronic medical conditions, a temporary disability or pregnancy complications resulting in barriers to fully accessing University courses, programs and activities.
+Accommodations are determined through the Office of Accessibility Resources and Service (ARS) for individuals with documented qualifying disabilities in accordance with applicable state and federal laws. See the ARS Website for contact information: https://ars.unc.edu or email ars@unc.edu.
+
+(source: https://ars.unc.edu/faculty-staff/syllabus-statement)
+
+## Diversity Statement
+I value the perspectives of individuals from all backgrounds reflecting the diversity of our students. I broadly define diversity to include race, gender identity, national origin, ethnicity, religion, social class, age, sexual orientation, political background, and physical and learning ability. I strive to make this classroom an inclusive space for all students. Please let me know if there is anything I can do to improve, I appreciate suggestions.
