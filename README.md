@@ -36,14 +36,14 @@ Note that this is preliminary. Some topics may take (on average) 1 day longer th
 | February 4, 2021 | Single Cell Day 2: Graph-based analysis of single-cell data | [[phenograph](https://www.sciencedirect.com/science/article/pii/S0092867415006376)] | | [[phenograph](https://github.com/JinmiaoChenLab/Rphenograph)], [[PHATE](https://www.nature.com/articles/s41587-019-0336-3)], [[FastPG](https://github.com/sararselitsky/FastPG)] |
 |February 9, 2021 | Single Cell Day 3: Feature Engineering from single-cell data and linking to external variables | Citrus, VoPo, [[MELD](https://www.biorxiv.org/content/10.1101/532846v4)] | 
 | February 11, 2021 | Single Cell Day 4: Differential Analysis of Cell-Populations | Diffcyt, Cydar |
-| February 16, 2021 | **Wellness day no class** | Conos, LIGER
+| February 16, 2021 | **Wellness day no class** | 
 | February 18, 2021 : **Homework 1 Due** | Single Cell Day 5: Graph-based matching of single-cell data | Conos, LIGER
 | February 23, 2021  | Single Cell Day 7:  **Guest lecture by [Maria Brbic (Stanford CS)](https://cs.stanford.edu/~mbrbic/)** : Semi-Supervised Automated Cell-Population Discovery  | MARS| 
 | February 25, 2021 | Single Cell Day 6: Deep Learning for Single Cell Tasks | SAUCIE, CellCNN |
 | March 2, 2021 | Single Cell Day 7: Trajectory Inference | |
 | March 4, 2021 | Single Cell Day 8: Benchmarking in Trajectory Inference | |
 | March 9, 2021 : **Project Proposals Due** | Presentations of Project Propsals Day 1 | |
-| March 11, 2021 **Wellness Day no class** |  | |
+| March 11, 2021  | **Wellness Day no class**  | |
 | March 16, 2021 | Project Proposal Presentation Day 2 | |
 | March 18, 2021  | Single Cell Day 9: Benchmarking in Single-Cell Analysis | Aghaeepour et al |
 | March 23, 2021 | Single Cell Day 10: Imaging Proteomics + Spatial Regularization : computational challeneges in combining tissue images and protein expression | |
