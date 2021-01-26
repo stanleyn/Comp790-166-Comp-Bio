@@ -48,16 +48,16 @@ Note that this is preliminary. Some topics may take (on average) 1 day longer th
 | March 18, 2021  | Single Cell Day 9: Benchmarking in Single-Cell Analysis | Aghaeepour et al |
 | March 23, 2021 | Single Cell Day 10: Imaging Proteomics + Spatial Regularization : computational challeneges in combining tissue images and protein expression | |
 | March 25, 2021 | Multiomics Day 1: Constructing a joint embedding of samples according to multiple modalities, subspace merging | SNF, grassmann embed |  
-| Week 10-2 | Multiomics Day 2: MOFA-1 and MOFA-2: Multiomics Factor Analysis | MOFA-1, MOFA-2 | 
-| Week 11-1 | Multiomics Day 3: Uncovering Relationships Between Modalities | mmvec| 
-| Week 11-2 | Multiomics Day 4: Stacked Generalization and CCA in multiomics studies | Ghaemi |
-| Week 12-1 | Multiomics Day 5: Benchmarking in multiomics studies | |
-|Week 12-2  | Incorporating Prior Biological Knowledge into Analysis | |
-|Week 13-1 : **Homework 2 Due** |  Systems Immunology Topic: TCR/BCR (T and B cell receptor reperotire analysis) | | 
-|Week 13-2 | Partial Correlation, Thresholding etc for Identifying Meaningful Interactions | | 
-|Week 14-1 | Enrichment Analysis, writing for an interdiscplinary audience | | 
-|Week 14-2 | Project Presentations Day 1 | |
-|Week 15-1 | Project Presentations Day 2 | |
+| March 30, 2021 | Multiomics Day 2: MOFA-1 and MOFA-2: Multiomics Factor Analysis | MOFA-1, MOFA-2 | 
+| April 2, 2021 : **HW 2 Assigned** | Multiomics Day 3: Uncovering Relationships Between Modalities | mmvec| 
+| April 6, 2021 | Multiomics Day 4: Stacked Generalization and CCA in multiomics studies | Ghaemi |
+| April 8, 2021 | Multiomics Day 5: Benchmarking in multiomics studies | |
+|April 13, 2021  | Incorporating Prior Biological Knowledge into Analysis | |
+|April 15, 2021 : **Homework 2 Due** |  Systems Immunology Topic: TCR/BCR (T and B cell receptor reperotire analysis) | | 
+|April 20, 2021 | Partial Correlation, Thresholding etc for Identifying Meaningful Interactions | | 
+|April 22, 2021 | Enrichment Analysis, writing for an interdiscplinary audience | | 
+|April 27, 2021 | Project Presentations Day 1 | |
+|April 29, 2021 | Project Presentations Day 2 | |
 |Final Exam Day | Project papers due | |
 
 # Homework, Project, Reading, Grading, Etc
