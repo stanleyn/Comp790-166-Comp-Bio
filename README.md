@@ -34,18 +34,20 @@ Note that this is preliminary. Some topics may take (on average) 1 day longer th
 | January 28, 2021 | Graph Embeddings, Graph Signal Procssing | [[Node2Vec](https://dl.acm.org/doi/pdf/10.1145/2939672.2939754?casa_token=vQTboPUL6qIAAAAA:XQsAUtXd4MyWfj1ClUBw8FKhuPbpqO-aE2d7EDs5iX9-jJZP9BuxDbKUjg3CM69YKHALjCAKJtJx)], [[Review on GSP](https://arxiv.org/abs/1211.0053)], [[Review: Graph Embedding in Comp Bio](https://www.frontiersin.org/articles/10.3389/fgene.2019.00381/full)], **for fun**: [[Low Pass Filtering on Graphs](https://arxiv.org/abs/2008.01305)], [[Vicus](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005621)], [[Mashup](https://www.cell.com/cell-systems/fulltext/S2405-4712(16)30360-X_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS240547121630360X%3Fshowall%3Dtrue)] | | [[node2vec](https://github.com/aditya-grover/node2vec)]|
 | February 2, 2021 | Single Cell Day 1: Intro to single-cell profiling, normalization, batch effect correction, imputation in single-cell analysis, automated cell-population discovery, visualization | [[Spade](https://www.nature.com/articles/nbt.1991)], [[MAGIC](https://www.biorxiv.org/content/10.1101/111591v1)] | | [[FCS file tutorial](https://github.com/stanleyn/fcs_tutorial)], [[MAGIC](https://github.com/KrishnaswamyLab/MAGIC)] |
 | February 4, 2021 | Single Cell Day 2: Graph-based analysis of single-cell data | [[phenograph](https://www.sciencedirect.com/science/article/pii/S0092867415006376)] | | [[phenograph](https://github.com/JinmiaoChenLab/Rphenograph)], [[PHATE](https://www.nature.com/articles/s41587-019-0336-3)], [[FastPG](https://github.com/sararselitsky/FastPG)] |
-| Week 4-2 | Single Cell Day 3: Feature Engineering from single-cell data and linking to external variables | Citrus, VoPo, [[MELD](https://www.biorxiv.org/content/10.1101/532846v4)] | 
-| Week 5-1 | Single Cell Day 4: Differential Analysis of Cell-Populations | Diffcyt, Cydar |
-| Week 5-2 | Single Cell Day 5: Graph-based matching of single-cell data | Conos, LIGER
-| Week 6-2 | Single Cell Day 6: Deep Learning for Single Cell Tasks | SAUCIE, CellCNN |
-| Week 6-2 | Single Cell Day 7:  **Guest lecture by [Maria Brbic (Stanford CS)](https://cs.stanford.edu/~mbrbic/)** : Semi-Supervised Automated Cell-Population Discovery: | MARS| 
-| Week 7-1 | Single Cell Day 7: Trajectory Inference | |
-| Week 7-2 | Single Cell Day 8: Benchmarking in Trajectory Inference | |
-| Week 8-1 : **Project Proposals Due** | Presentations of Project Propsals Day 1 | |
-| Week 8-2 | Project Proposal Presentation Day 2 | |
-| Week 9-1 : **Homework 1 Due** | Single Cell Day 9: Benchmarking in Single-Cell Analysis | Aghaeepour et al |
-| Week 9-2 | Single Cell Day 10: Imaging Proteomics + Spatial Regularization : computational challeneges in combining tissue images and protein expression | |
-| Week 10-1 | Multiomics Day 1: Constructing a joint embedding of samples according to multiple modalities, subspace merging | SNF, grassmann embed |  
+|February 9, 2021 | Single Cell Day 3: Feature Engineering from single-cell data and linking to external variables | Citrus, VoPo, [[MELD](https://www.biorxiv.org/content/10.1101/532846v4)] | 
+| February 11, 2021 | Single Cell Day 4: Differential Analysis of Cell-Populations | Diffcyt, Cydar |
+| February 16, 2021 | **Wellness day no class** | Conos, LIGER
+| February 18, 2021 : **Homework 1 Due** | Single Cell Day 5: Graph-based matching of single-cell data | Conos, LIGER
+| February 23, 2021  | Single Cell Day 7:  **Guest lecture by [Maria Brbic (Stanford CS)](https://cs.stanford.edu/~mbrbic/)** : Semi-Supervised Automated Cell-Population Discovery  | MARS| 
+| February 25, 2021 | Single Cell Day 6: Deep Learning for Single Cell Tasks | SAUCIE, CellCNN |
+| March 2, 2021 | Single Cell Day 7: Trajectory Inference | |
+| March 4, 2021 | Single Cell Day 8: Benchmarking in Trajectory Inference | |
+| March 9, 2021 : **Project Proposals Due** | Presentations of Project Propsals Day 1 | |
+| March 11, 2021 **Wellness Day no class** |  | |
+| March 16, 2021 | Project Proposal Presentation Day 2 | |
+| March 18, 2021  | Single Cell Day 9: Benchmarking in Single-Cell Analysis | Aghaeepour et al |
+| March 23, 2021 | Single Cell Day 10: Imaging Proteomics + Spatial Regularization : computational challeneges in combining tissue images and protein expression | |
+| March 25, 2021 | Multiomics Day 1: Constructing a joint embedding of samples according to multiple modalities, subspace merging | SNF, grassmann embed |  
 | Week 10-2 | Multiomics Day 2: MOFA-1 and MOFA-2: Multiomics Factor Analysis | MOFA-1, MOFA-2 | 
 | Week 11-1 | Multiomics Day 3: Uncovering Relationships Between Modalities | mmvec| 
 | Week 11-2 | Multiomics Day 4: Stacked Generalization and CCA in multiomics studies | Ghaemi |
