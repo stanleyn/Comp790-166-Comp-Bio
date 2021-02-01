@@ -81,7 +81,7 @@ For each class, I will update the papers that we will go over in above table. Yo
 
 ### Reading Questions
 
-**Please choose one paper per week to turn in by the time of our class meeting 9:30 am to natalies+comp790@cs.unc.edu**. 
+**Please choose one paper per week on the weeks when reading summaries are due and turn them in before our class meeting 9:30 am to natalies+comp790@cs.unc.edu**. 
 
 1) Please explain in 2 sentences or less what the problem being solved is.
 
