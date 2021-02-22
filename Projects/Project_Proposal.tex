@@ -1,0 +1,191 @@
+\documentclass{article}
+
+\usepackage{fancyhdr}
+\usepackage{extramarks}
+\usepackage{amsmath}
+\usepackage{amsthm}
+\usepackage{amsfonts}
+\usepackage{tikz}
+\usepackage{url}
+\usepackage[plain]{algorithm}
+\usepackage{algpseudocode}
+\usepackage{hyperref}
+\usetikzlibrary{automata,positioning}
+
+%
+% Basic Document Settings
+%
+
+\topmargin=-0.45in
+\evensidemargin=0in
+\oddsidemargin=0in
+\textwidth=6.5in
+\textheight=9.0in
+\headsep=0.25in
+
+\linespread{1.1}
+
+\pagestyle{fancy}
+\lhead{\hmwkAuthorName}
+\chead{\hmwkClass\ (\hmwkTitle}
+\rhead{\firstxmark}
+\lfoot{\lastxmark}
+\cfoot{\thepage}
+
+\renewcommand\headrulewidth{0.4pt}
+\renewcommand\footrulewidth{0.4pt}
+
+\setlength\parindent{0pt}
+
+%
+% Create Problem Sections
+%
+
+%\newcommand{\enterProblemHeader}[1]{
+%    \nobreak\extramarks{}{Problem \arabic{#1} continued on next page\ldots}\nobreak{}
+%    \nobreak\extramarks{Problem \arabic{#1} (continued)}{Problem \arabic{#1} continued on next page\ldots}\nobreak{}
+%}
+%
+%\newcommand{\exitProblemHeader}[1]{
+%    \nobreak\extramarks{Problem \arabic{#1} (continued)}{Problem \arabic{#1} continued on next page\ldots}\nobreak{}
+%    \stepcounter{#1}
+%    \nobreak\extramarks{Problem \arabic{#1}}{}\nobreak{}
+%}
+%
+%\setcounter{secnumdepth}{0}
+%\newcounter{partCounter}
+%\newcounter{homeworkProblemCounter}
+%\setcounter{homeworkProblemCounter}{1}
+%\nobreak\extramarks{Problem \arabic{homeworkProblemCounter}}{}\nobreak{}
+
+%
+% Homework Problem Environment
+%
+% This environment takes an optional argument. When given, it will adjust the
+% problem counter. This is useful for when the problems given for your
+% assignment aren't sequential. See the last 3 problems of this template for an
+% example.
+%
+\newenvironment{homeworkProblem}[1][-1]{
+    \ifnum#1>0
+        \setcounter{homeworkProblemCounter}{#1}
+    \fi
+    \section{Problem \arabic{homeworkProblemCounter}}
+    \setcounter{partCounter}{1}
+    \enterProblemHeader{homeworkProblemCounter}
+}{
+    \exitProblemHeader{homeworkProblemCounter}
+}
+
+%
+% Homework Details
+%   - Title
+%   - Due date
+%   - Class
+%   - Section/Time
+%   - Instructor
+%   - Author
+%
+
+\newcommand{\hmwkTitle}{Project Proposal)}
+\newcommand{\hmwkDueDate}{February 18, 2021}
+\newcommand{\hmwkClass}{Comp790-CompBio}
+%\newcommand{\hmwkClassTime}{Section A}
+%\newcommand{\hmwkClassInstructor}{Professor Isaac Newton}
+\newcommand{\hmwkAuthorName}{\textbf{Your Names Here}} %%modify with your name
+
+%
+% Title Page
+%
+
+\title{
+    \vspace{2in}
+    \textmd{\textbf{\hmwkClass\hmwkTitle}}\\
+    \normalsize\vspace{0.1in}\small{Due\ on\ \hmwkDueDate\ at 3:10pm}\\
+    %$\vspace{0.1in}\large{\textit{\hmwkClassInstructor\ }}
+    \vspace{3in}
+}
+
+\author{\hmwkAuthorName}
+\date{}
+
+\renewcommand{\part}[1]{\textbf{\large Part \Alph{partCounter}}\stepcounter{partCounter}\\}
+
+%
+% Various Helper Commands
+%
+
+% Useful for algorithms
+\newcommand{\alg}[1]{\textsc{\bfseries \footnotesize #1}}
+
+% For derivatives
+\newcommand{\deriv}[1]{\frac{\mathrm{d}}{\mathrm{d}x} (#1)}
+
+% For partial derivatives
+\newcommand{\pderiv}[2]{\frac{\partial}{\partial #1} (#2)}
+
+% Integral dx
+\newcommand{\dx}{\mathrm{d}x}
+
+% Alias for the Solution section header
+\newcommand{\solution}{\textbf{\large Solution}}
+
+% Probability commands: Expectation, Variance, Covariance, Bias
+\newcommand{\E}{\mathrm{E}}
+\newcommand{\Var}{\mathrm{Var}}
+\newcommand{\Cov}{\mathrm{Cov}}
+\newcommand{\Bias}{\mathrm{Bias}}
+
+\begin{document}
+
+%\maketitle
+
+%\pagebreak
+\begin{itemize}
+\item Your project proposal is due by email to \path{natalies@cs.unc.edu+comp790} by 11:59pm on March 9. 
+\item You only need to submit one document per group. Please cc all members of your group on the email so that everyone gets credit for completing the proposal.  
+\item Feel free to write as much as you need to address the following about your project. For example, a paragraph is probably sufficient for each section. 
+\item You do not need to use this LaTeX template, but please ultimately submit a PDF. 
+\end{itemize}
+
+\section{Title}
+
+What is the title of your project?
+
+\section{Group Members}
+
+Who are the group members working on the project? 
+
+\section{Abstract}
+
+Write a 3-5 sentence summary of the main idea of your project. For example, \\
+
+\emph{Cats are a very common animal on earth. Despite their abundance, the distribution of time they spend sleeping and napping is not well characterized. Here we present DeepCat, a state-of-the-art deep learning approach for learning the transitions of a cat between sleeping and napping. We evaluate our algorithm on three open source cat datasets and achieve superior performance in two out of the three datasets.}
+
+\section{Formal Statement of the Problem}
+What is the problem you are trying to solve? Why is it important for people to care about?
+
+\section{Related Work}
+What is some related work to your problem of interest? If there is no relevant related work, explain the work that caused you to be curious about the question that you are asking. 
+
+\section{Contributions}
+
+State your main contributions. What do you expect to show with your work? 
+
+\section{Datasets}
+
+What dataset will you use to evaluate your method or contribution?
+
+\section{Intended Experiments}
+Can you come up with 1-2 computational experiments that you will do to evaluate your approach? 
+
+\section{Expected Challenges}
+Are there any aspects of what you are proposing that you expect to be particularly challenging?
+
+\section{Implementation}
+What code will you provide at the end? What will be the inputs and outputs of your code? How will you share your code?
+
+\section{Preliminary Results}
+Share any preliminary results that you have. If you don't have any, write a brief timeline for your implementation and experiments. 
+
+\end{document}
