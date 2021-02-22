@@ -37,26 +37,26 @@ Note that this is preliminary. Some topics may take (on average) 1 day longer th
 |February 9, 2021 | Single Cell Day 3: Geometry Based Data Generation, Denoising, Data Augmentation + Linking Single-Cell Data to External Variables | [[SUGAR](https://arxiv.org/abs/1802.04927)], [[MELD](https://www.biorxiv.org/content/10.1101/532846v4)] | [Lecture 7 Notes](https://github.com/stanleyn/Comp790-166-Comp-Bio/blob/main/Lecture_Notes/Lecture7_public.pdf) | [[Meld](https://github.com/KrishnaswamyLab/MELD)], [[sugar](https://github.com/stanleyjs/sugar)] |
 | February 11, 2021 | Single Cell Day 4: Graph Fourier Transform , Low Pass Filtering, Finish up MELD, Differential Abundance Analysis of Cell Populations |  **for fun**: [[Low Pass Filtering on Graphs](https://arxiv.org/abs/2008.01305)] | [Lecture 8 Notes](https://github.com/stanleyn/Comp790-166-Comp-Bio/blob/main/Lecture_Notes/Lecture8_public.pdf) | [[GSP toolbox](https://pygsp.readthedocs.io/en/stable/)] | 
 | February 16, 2021 | **Wellness day no class** | 
-| February 18, 2021 : **Homework 1 Due** | Single Cell Day 5: Differential Analysis of Cell Populations + Integrating Multiple Single-Cell Datasets | [[Contrastive PCA](https://www.nature.com/articles/s41467-018-04608-8)], [[Cydar](https://www.nature.com/articles/nmeth.4295)], [[Conos](https://www.nature.com/articles/s41592-019-0466-z)] | | [[cydar](https://www.bioconductor.org/packages/release/bioc/html/cydar.html)] |
-| February 23, 2021  | Single Cell Day 7:  **Guest lecture by [Maria Brbic (Stanford CS)](https://cs.stanford.edu/~mbrbic/)** : Semi-Supervised Automated Cell-Population Discovery  | MARS| 
-| February 25, 2021 | Single Cell Day 6: Deep Learning for Single Cell Tasks | SAUCIE, CellCNN |
-| March 2, 2021 | Single Cell Day 7: Trajectory Inference | |
-| March 4, 2021 | Single Cell Day 8: Benchmarking in Trajectory Inference | |
-| March 9, 2021 : **Project Proposals Due** | Presentations of Project Propsals Day 1 | |
-| March 11, 2021  | **Wellness Day no class**  | |
-| March 16, 2021 | Project Proposal Presentation Day 2 | |
-| March 18, 2021  | Single Cell Day 9: Benchmarking in Single-Cell Analysis | Aghaeepour et al |
-| March 23, 2021 | Single Cell Day 10: Imaging Proteomics + Spatial Regularization : computational challeneges in combining tissue images and protein expression | |
-| March 25, 2021 | Multiomics Day 1: Constructing a joint embedding of samples according to multiple modalities, subspace merging | SNF, grassmann embed |  
-| March 30, 2021 | Multiomics Day 2: MOFA-1 and MOFA-2: Multiomics Factor Analysis | MOFA-1, MOFA-2 | 
-| April 2, 2021 : **HW 2 Assigned** | Multiomics Day 3: Uncovering Relationships Between Modalities | mmvec| 
-| April 6, 2021 | Multiomics Day 4: Stacked Generalization and CCA in multiomics studies | Ghaemi |
-| April 8, 2021 | Multiomics Day 5: Benchmarking in multiomics studies | |
-|April 13, 2021  | Incorporating Prior Biological Knowledge into Analysis | |
-|April 15, 2021 : **Homework 2 Due** |  Systems Immunology Topic: TCR/BCR (T and B cell receptor reperotire analysis) | | 
-|April 20, 2021 | Partial Correlation, Thresholding etc for Identifying Meaningful Interactions | | 
-|April 22, 2021 | Enrichment Analysis, writing for an interdiscplinary audience | | 
-|April 27, 2021 | Project Presentations Day 1 | |
+| February 18, 2021| **Class Canceled due to Weather** |
+| February 23, 2021 : **Homework 1 Due** | Single Cell Day 5:  **Guest lecture by [Maria Brbic (Stanford CS)](https://cs.stanford.edu/~mbrbic/)** : Semi-Supervised Automated Cell-Population Discovery  | [[MARS](https://www.nature.com/articles/s41592-020-00979-3)]| No slides | [[MARS](https://github.com/snap-stanford/mars)] | 
+| February 25, 2021  | Single Cell Day 6: Differential Analysis of Cell Populations + Projecting Data According to Background Variance | [[Contrastive PCA](https://www.nature.com/articles/s41467-018-04608-8)], [[Cydar](https://www.nature.com/articles/nmeth.4295)], [[Milo](https://www.biorxiv.org/content/10.1101/2020.11.23.393769v1)] | [Lecture 9 Notes](https://github.com/stanleyn/Comp790-166-Comp-Bio/blob/main/Lecture_Notes/Lecture9_public.pdf) | [[cPCA](https://github.com/abidlabs/contrastive)], [[Milo](https://github.com/MarioniLab/miloR)], [[cydar](https://www.bioconductor.org/packages/release/bioc/html/cydar.html)] |
+| March 2, 2021 : **Reading Summary 2 Due by Today**| Single Cell Day 7: Combinging Multiple Single-Cell Datasets | [[Conos](https://www.nature.com/articles/s41592-019-0466-z)], [[SAUCIE](https://www.nature.com/articles/s41592-019-0576-7)], [[CytofMerge](https://academic.oup.com/bioinformatics/article/35/20/4063/5381543)]|
+| March 4, 2021 | Single Cell Day 8: Trajectory Inference | |
+| March 9, 2021 : **Project Proposals Due** | Single Cell Day 9: Benchmarking in Trajectory Inference | |
+| March 11, 2021  | Presentations of Project Propsals Day 1 | |
+| March 16, 2021  | **Wellness Day no class**  | |
+| March 18, 2021 | Project Proposal Presentation Day 2 | |
+| March 23, 2021  | Single Cell Day 9: Benchmarking in Single-Cell Analysis | Aghaeepour et al |
+| March 25, 2021 | Single Cell Day 10: Imaging Proteomics + Spatial Regularization : computational challeneges in combining tissue images and protein expression | |
+| March 30, 2021 | Multiomics Day 1: Constructing a joint embedding of samples according to multiple modalities, subspace merging | SNF, grassmann embed |  
+| April 2, 2021 | Multiomics Day 2: MOFA-1 and MOFA-2: Multiomics Factor Analysis | MOFA-1, MOFA-2 | 
+| April 6, 2021 : **HW 2 Assigned** | Multiomics Day 3: Uncovering Relationships Between Modalities | mmvec| 
+| April 8, 2021 | Multiomics Day 4: Stacked Generalization and CCA in multiomics studies | Ghaemi |
+| April 13, 2021 | Multiomics Day 5: Benchmarking in multiomics studies | |
+|April 15, 2021  | Incorporating Prior Biological Knowledge into Analysis | |
+|April 20, 2021 : **Homework 2 Due** |  Systems Immunology Topic: TCR/BCR (T and B cell receptor reperotire analysis) | | 
+|April 22, 2021 | Partial Correlation, Thresholding etc for Identifying Meaningful Interactions | | 
+ |April 27, 2021 | Project Presentations Day 1 | |
 |April 29, 2021 | Project Presentations Day 2 | |
 |Final Exam Day | Project papers due | |
 
