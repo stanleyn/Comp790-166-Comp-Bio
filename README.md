@@ -43,8 +43,8 @@ Note that this is preliminary. Some topics may take (on average) 1 day longer th
 | March 2, 2021 : **Reading Summary 2 Due by Today**| Single Cell Day 7: Combinging Multiple Single-Cell Datasets | [[Conos](https://www.nature.com/articles/s41592-019-0466-z)], [[SAUCIE](https://www.nature.com/articles/s41592-019-0576-7)], [[CytofMerge](https://academic.oup.com/bioinformatics/article/35/20/4063/5381543)]|
 | March 4, 2021 | Single Cell Day 8: Trajectory Inference | |
 | March 9, 2021 : **Project Proposals Due** | Single Cell Day 9: Benchmarking in Trajectory Inference | |
-| March 11, 2021  | Presentations of Project Propsals Day 1 | |
-| March 16, 2021  | **Wellness Day no class**  | |
+| March 11, 2021  |**Wellness Day no class**  | |
+| March 16, 2021  | Presentations of Project Propsals Day 1  | |
 | March 18, 2021 | Project Proposal Presentation Day 2 | |
 | March 23, 2021  | Single Cell Day 9: Benchmarking in Single-Cell Analysis | Aghaeepour et al |
 | March 25, 2021 | Single Cell Day 10: Imaging Proteomics + Spatial Regularization : computational challeneges in combining tissue images and protein expression | |
