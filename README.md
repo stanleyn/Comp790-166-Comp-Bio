@@ -46,8 +46,9 @@ Note that this is preliminary. Some topics may take (on average) 1 day longer th
 | March 11, 2021  |**Wellness Day no class**  | |
 | March 16, 2021  | Presentations of Project Propsals Day 1  | |
 | March 18, 2021 | Project Proposal Presentation Day 2 | |
-| March 23, 2021  | Finish Grassmann Embedding, Longitudinal Multimodal Data Integration, ADMM | [[Longitudinal Multiomodal Data Integration on ADNI](http://psb.stanford.edu/psb-online/proceedings/psb20/Brand.pdf)] | [Lecture 13 Notes](https://github.com/stanleyn/Comp790-166-Comp-Bio/blob/main/Lecture_Notes/Lecture13_public.pdf) | 
-| March 25, 2021 | Single Cell Day 10: Imaging Proteomics + Spatial Regularization : computational challeneges in combining tissue images and protein expression | |
+| March 23, 2021  | Finish Grassmann Embedding, Longitudinal Multimodal Data Integration | [[Longitudinal Multiomodal Data Integration on ADNI](http://psb.stanford.edu/psb-online/proceedings/psb20/Brand.pdf)] | [Lecture 13 Notes](https://github.com/stanleyn/Comp790-166-Comp-Bio/blob/main/Lecture_Notes/Lecture13_public.pdf) | 
+| March 25, 2021 | Finish Longitudinal Multiomodal Data Integration, Brief Journey in Convex Optimization, ADMM | 
+| March X, 2021 | Single Cell Day 10: Imaging Proteomics + Spatial Regularization : computational challeneges in combining tissue images and protein expression | |
 | March 30, 2021 | Single Cell Day 9: PAGA and Slingshot (more trajectory inference) + Benchmarking in Trajectory Inference | [[PAGA](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-019-1663-x)], [[Slingshot](https://link.springer.com/article/10.1186/s12864-018-4772-0)], [[Benchmarking](https://www.nature.com/articles/s41587-019-0071-9)] | |  
 | April 2, 2021 | Multiomics Day 2: MOFA-1 and MOFA-2: Multiomics Factor Analysis | MOFA-1, MOFA-2 | 
 | April 6, 2021 : **HW 2 Assigned** | Multiomics Day 3: Uncovering Relationships Between Modalities | mmvec| 
