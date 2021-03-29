@@ -51,7 +51,7 @@ Note that this is preliminary. Some topics may take (on average) 1 day longer th
 | March 30, 2021 | MOFA methods for multioomics integration (both multiple modalities and multiple single-cell!) | |
 | March X, 2021 | Single Cell Day 10: Imaging Proteomics + Spatial Regularization : computational challeneges in combining tissue images and protein expression | |
 | March 30, 2021 | Single Cell Day 9: PAGA and Slingshot (more trajectory inference) + Benchmarking in Trajectory Inference | [[PAGA](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-019-1663-x)], [[Slingshot](https://link.springer.com/article/10.1186/s12864-018-4772-0)], [[Benchmarking](https://www.nature.com/articles/s41587-019-0071-9)] | |  
-| April 2, 2021 | Multiomics Day 2: MOFA-1 and MOFA-2: Multiomics Factor Analysis | MOFA-1, MOFA-2 | 
+| April 2, 2021 | Multiomics Day 2: MOFA-1 and MOFA-2: Multiomics Factor Analysis | [[MOFA](https://www.embopress.org/doi/full/10.15252/msb.20178124)], [[MOFA+](https://link.springer.com/content/pdf/10.1186/s13059-020-02015-1.pdf)] | 
 | April 6, 2021 : **HW 2 Assigned** | Multiomics Day 3: Uncovering Relationships Between Modalities | mmvec| 
 | April 8, 2021 | Multiomics Day 4: Stacked Generalization and CCA in multiomics studies | Ghaemi |
 | April 13, 2021 | Multiomics Day 5: Benchmarking in multiomics studies | |
