@@ -1,0 +1,211 @@
+\documentclass{article}
+
+\usepackage{fancyhdr}
+\usepackage{extramarks}
+\usepackage{amsmath}
+\usepackage{amsthm}
+\usepackage{amsfonts}
+\usepackage{tikz}
+\usepackage{url}
+\usepackage[plain]{algorithm}
+\usepackage{algpseudocode}
+\usepackage{hyperref}
+\usetikzlibrary{automata,positioning}
+
+%
+% Basic Document Settings
+%
+
+\topmargin=-0.45in
+\evensidemargin=0in
+\oddsidemargin=0in
+\textwidth=6.5in
+\textheight=9.0in
+\headsep=0.25in
+
+\linespread{1.1}
+
+\pagestyle{fancy}
+\lhead{\hmwkAuthorName}
+\chead{\hmwkClass\ (\hmwkTitle}
+\rhead{\firstxmark}
+\lfoot{\lastxmark}
+\cfoot{\thepage}
+
+\renewcommand\headrulewidth{0.4pt}
+\renewcommand\footrulewidth{0.4pt}
+
+\setlength\parindent{0pt}
+
+%
+% Create Problem Sections
+%
+
+\newcommand{\enterProblemHeader}[1]{
+    \nobreak\extramarks{}{Problem \arabic{#1} continued on next page\ldots}\nobreak{}
+    \nobreak\extramarks{Problem \arabic{#1} (continued)}{Problem \arabic{#1} continued on next page\ldots}\nobreak{}
+}
+
+\newcommand{\exitProblemHeader}[1]{
+    \nobreak\extramarks{Problem \arabic{#1} (continued)}{Problem \arabic{#1} continued on next page\ldots}\nobreak{}
+    \stepcounter{#1}
+    \nobreak\extramarks{Problem \arabic{#1}}{}\nobreak{}
+}
+
+\setcounter{secnumdepth}{0}
+\newcounter{partCounter}
+\newcounter{homeworkProblemCounter}
+\setcounter{homeworkProblemCounter}{1}
+\nobreak\extramarks{Problem \arabic{homeworkProblemCounter}}{}\nobreak{}
+
+%
+% Homework Problem Environment
+%
+% This environment takes an optional argument. When given, it will adjust the
+% problem counter. This is useful for when the problems given for your
+% assignment aren't sequential. See the last 3 problems of this template for an
+% example.
+%
+\newenvironment{homeworkProblem}[1][-1]{
+    \ifnum#1>0
+        \setcounter{homeworkProblemCounter}{#1}
+    \fi
+    \section{Problem \arabic{homeworkProblemCounter}}
+    \setcounter{partCounter}{1}
+    \enterProblemHeader{homeworkProblemCounter}
+}{
+    \exitProblemHeader{homeworkProblemCounter}
+}
+
+%
+% Homework Details
+%   - Title
+%   - Due date
+%   - Class
+%   - Section/Time
+%   - Instructor
+%   - Author
+%
+
+\newcommand{\hmwkTitle}{Homework\ \#2)}
+\newcommand{\hmwkDueDate}{\today}
+\newcommand{\hmwkClass}{Comp790-Computational Biology}
+%\newcommand{\hmwkClassTime}{Section A}
+%\newcommand{\hmwkClassInstructor}{Professor Isaac Newton}
+\newcommand{\hmwkAuthorName}{\textbf{Your Name Here}} %%modify with your name
+
+%
+% Title Page
+%
+
+\title{
+    \vspace{2in}
+    \textmd{\textbf{\hmwkClass\hmwkTitle}}\\
+    \normalsize\vspace{0.1in}\small{Due\ on\ \hmwkDueDate\ at 3:10pm}\\
+    %$\vspace{0.1in}\large{\textit{\hmwkClassInstructor\ }}
+    \vspace{3in}
+}
+
+\author{\hmwkAuthorName}
+\date{}
+
+\renewcommand{\part}[1]{\textbf{\large Part \Alph{partCounter}}\stepcounter{partCounter}\\}
+
+%
+% Various Helper Commands
+%
+
+% Useful for algorithms
+\newcommand{\alg}[1]{\textsc{\bfseries \footnotesize #1}}
+
+% For derivatives
+\newcommand{\deriv}[1]{\frac{\mathrm{d}}{\mathrm{d}x} (#1)}
+
+% For partial derivatives
+\newcommand{\pderiv}[2]{\frac{\partial}{\partial #1} (#2)}
+
+% Integral dx
+\newcommand{\dx}{\mathrm{d}x}
+
+% Alias for the Solution section header
+\newcommand{\solution}{\textbf{\large Solution}}
+
+% Probability commands: Expectation, Variance, Covariance, Bias
+\newcommand{\E}{\mathrm{E}}
+\newcommand{\Var}{\mathrm{Var}}
+\newcommand{\Cov}{\mathrm{Cov}}
+\newcommand{\Bias}{\mathrm{Bias}}
+
+\begin{document}
+
+%\maketitle
+
+%\pagebreak
+\begin{itemize}
+\item This homework is due at 11:59pm on April 23, 2021. Please submit by email to \path{natalies@cs.unc.edu+comp790}. 
+\item There are a few files provided:
+\begin{itemize}
+\item Microbiome Network 1: with edgelist given in \path{supragingival_plaque.edgelist} and node names given in \path{supragingical_plaque_nodenames.csv}
+\item Microbiome Network 2: with edgelist given in \path{subgingival_plaque_nodenames.csv} and node names given in \path{subgingival_plaque_nodenames.csv}
+\end{itemize}
+\item You are welcome to consult with other colleagues, but please write up your own independent solution. 
+\item You are welcome to use Python, Julia, or R here.
+\item You are welcome to write up your assignment using the \path{HW2_790-166.tex} template, or write up the solutions in the method of your choice. 
+\item This homework is worth 50 points total. 
+\item Please submit your final writeup as a PDF. 
+\end{itemize}
+
+\begin{homeworkProblem} (50 Points Total)
+{\bf Microbiome Network Alignment} \\
+
+SparCC \url{https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1002687} is a method to infer correlation networks between microbial species. In these networks, each node represents a particular microbial species and an edge exists between a pair of nodes if those species have prominent co-occurrence patterns across human subjects. Using data provided with the SparCC paper, we have downloaded microbial interaction networks constructed from data collected in the human microbiome project \url{https://hmpdacc.org/}. Briefly, this effort focused on characterizing microbial co-occurence patterns in different body sites. \\
+
+Here, you have been given two networks of microbial interactions observed in 1) subgingival plaque and 2) supragingival plaque. ({\bf Proceed with caution if you google these}). We will use our recent knowledge in graph alignment to compare these two networks and to understand the inferred mapping between their nodes. For each network, we have provided an edgelist and \path{.csv} file providing the biological name for each node: 
+
+\begin{itemize}
+\item Supragingival Plaque Network (1): with edgelist given in \path{supragingival_plaque.edgelist} and node names given in \path{supragingical_plaque_nodenames.csv} $\rightarrow$ referred to downstream as `Network 1`
+\item Subgingival Plaque Network (2): with edgelist given in \path{subgingival_plaque_nodenames.csv} and node names given in \path{subgingival_plaque_nodenames.csv} $\rightarrow$ referred to downstream as `Network 2`
+\end{itemize}
+
+Recall REGAL alignment \url{https://arxiv.org/pdf/1802.06257.pdf}. The following homework sub-propblems will {\bf walk us through implementing the REGAL graph alignment approach}. \\
+
+1) {\bf Constructing Node Features (5 points):} The first part of REGAL is to create a feature vector for each node that helps to summarize something about its context. We will use a simple $k$-hop method to construct a feature vector for each node. Recall that for a node, $i$, its `$k$-hop subgraph` can be obtained by considering nodes that are within $k$ hops from $i$. (Hint: you may find the following useful \url{https://networkx.org/documentation/stable//reference/generated/networkx.generators.ego.ego_graph.html}). \\
+
+ We will consider $k$-hop networks for $k=1,2,3,4$. {\bf Write a function, where for a particular $k$, you collect the set of neighboring nodes within $k$ hops of each node and summarize the degree distribution of these collective `$k$-hop neighbors` with 4 statistics : \{\text{min degree}, \text{median degree}, \text{mean degree}, \text{max degree}\}.} After doing this for each value of $k$, you should ultimately be able to represent each node with 16 features (4 considered hops $\times$ 4 summary statistics per hop). As an example, assuming Graph 1 has $N_{1}$ nodes, define its node feature matrix, ${\bf X}_{1} \in \mathbb{R}^{N_{1} \times 16}$ matrix. \\
+
+2) {\bf Intuition Building (5 points):} Use your new function to build the described feature vectors for Supragingival Plaque Network (Network 1). Assuming this network has $N_{1}$ nodes, {\bf project these $N_{1}$ nodes into two dimensions using your dimensionality reduction method of choice}, based on the 16 computed features (${\bf X}_{1} \in \mathbb{R}^{N_{1} \times 16}$). \\
+
+3) {\bf Choosing Landmarks (5 points):} Recall that REGAL constructs an embedding for each node by specifying landmark nodes that have been collected across both of the graphs being aligned. Choose a set of $d$ landmark nodes {\bf collectively} across Graphs 1 and 2. You can play with $d$ later, but considering the total number of nodes is $<200$ between graphs 1 and 2, perhaps $d=30$ is a good place to start. You can choose the set of $d$ landmarks at random, or use a more sophisticated approach. {\bf Explain your choice of landmarks and write a function to return these landmark nodes}.  \\
+
+4) {\bf Computing Similarities to Landmarks (5 points):} In part 1), you wrote a function to compute feature vectors for each node. Assuming Graph 1 has $N_{1}$ nodes and Graph 2 has $N_{2}$ nodes, {\bf write a function that computes a similarity measure in this 16-dimensional space between each of the nodes in Graph 1 and Graph 2 to each of the $d$ landmarks.} So, you should en up with a matrix, ${\bf C} \in \mathbb{R}^{(N_{1} + N_{2}) \times d}$. \\
+
+5) {\bf Extract Landmark $\times$ Landmark Matrix (5 points):} As you know, the ${\bf C}$ that you constructed contains the $d$ landmark nodes! Write a function to construct ${\bf W} \in \mathbb{R}^{d \times d}$ submatrix of ${\bf C}$ where the similarities between the landmarks were stored. \\
+
+
+6) {\bf Embedding via Landmarks (5 points)}: Given Theorem 3.1 in \url{https://arxiv.org/pdf/1802.06257.pdf},  we can compute the collective node embedding matrix (across Network 1 and Network 2), $\tilde{\bf Y} \in \mathbb{R}^{(N_{1} + N_{2}) \times d}$, as
+
+$$\tilde{\bf Y}={\bf C}{\bf U}{\boldsymbol \Sigma}^{1/2}$$. 
+
+Recall that here, ${\bf U}$ and ${\boldsymbol \Sigma}$ are obtained through an SVD on the pseudo inverse (${\bf W}^{\text{pinv}}$) of the (landmark $\times$ landmark) similarity matrix, ${\bf W} \in \mathbb{R}^{d \times d}$ extracted from ${\bf C}$.
+
+ $${\bf W}^{\text{pinv}}={\bf U}{\boldsymbol \Sigma}{\bf V}^{T}$$
+
+Hints: These are useful for pseudoinverse (\url{https://numpy.org/doc/stable/reference/generated/numpy.linalg.pinv.html}) and SVD (\url{https://numpy.org/doc/stable/reference/generated/numpy.linalg.svd.html}). \\
+
+{\bf Given this information, write a function to compute $\tilde{\bf Y}$.} \\
+
+7) {\bf Putting it All Together Visualization 1 (5 points):} You have now defined an embedding for all nodes in Networks 1 and 2 in some $d$-dimensional space through $\tilde{\bf Y}$. {\bf Use your favorite dimensionality reduction method of choice to project the collective set of nodes in Networks 1 and 2 into two dimensions. Color the nodes by which network they are from. Comment on any observations.} \\
+
+8) {\bf Alignment Between Graphs (5 points):} Given $\tilde{\bf Y}$, {\bf calculate a similarity score (your choice) between each node in Network 1 and every node in Network 2.} Remember that you have the names of these nodes in  \path{supragingical_plaque_nodenames.csv} and \path{subgingival_plaque_nodenames.csv}. {\bf Comment on your mapping in regards to whether or not nodes with the same name are being mapped to each other between Network 1 and Network 2.} \\
+
+9) {\bf Creativity (5 points):} Now that you have the entire pipeline in place, play around with it a bit. For example, considering changing how you define the features for nodes in part 1), changing the value of $d$, changing how you choose landmarks, or anything else that is interesting to you! {\bf Re-run steps 1-7 with your modification and comment on how it changes the interpretation of alignment between Network 1 and Network 2 given in $\tilde{\bf Y}$}. \\
+
+10) {\bf Creativity Part 2 (5 points):} Imagine a collaborator dropped these two networks on your desk. They are paying you from their grant, so you need to produce something to give them. {\bf Create a visualization of your choice that reflects something about the similarity between Network 1 and Network 2} (in terms of node alignment, clustering structure, etc). \\
+
+{\bf Congratulations! You implemented REGAL from scratch!}
+
+
+
+\end{homeworkProblem}
+
+\end{document}
