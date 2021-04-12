@@ -56,7 +56,7 @@ Note that this is preliminary. Some topics may take (on average) 1 day longer th
 | April 15, 2021 | Comp Neuro day 2 | |
 | April 20, 2021  | Imaging Proteomics + Spatial Regularization : computational challeneges in combining tissue images and protein expression | |
 |April 22, 2021 : **Homework 2 Due on April 23**  | Imaging proteomics day 2 | |
-|April 27, 2021 :  |  Project Presentations Day 2 | | 
+|April 27, 2021 :  |  Project Presentations Day 1 | | 
 |April 29, 2021 | Project Presentations Day 2 | |
 |May 4, 2021 | Project Presentations Day 3 | |
 |Final Exam Day | Project papers due | |
