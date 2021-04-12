@@ -52,13 +52,13 @@ Note that this is preliminary. Some topics may take (on average) 1 day longer th
 |April 1, 2021 | Integrating multiple heterogeneous graphs (e.g. multiple relational definitions). Start network alignment. | [[Mashup](https://www.cell.com/cell-systems/fulltext/S2405-4712(16)30360-X?)], [[REGAL (network alignment)](https://gemslab.github.io/papers/heimann-2018-regal.pdf)] | [Lecture 16 Notes](https://github.com/stanleyn/Comp790-166-Comp-Bio/blob/main/Lecture_Notes/Lecture16_public.pdf) | [[REGAL](https://github.com/GemsLab/REGAL)] | 
 | April 6 2021 | Refining Graph Alignments, Graph Summarization | [[Refining Network Alignment](https://gemslab.github.io/papers/heimann-2021-RefiNA.pdf)], [[Bridging Network Alignment and Summarization](https://gemslab.github.io/papers/jin-2019-latent.pdf)]  | [Lecture 17 Notes](https://github.com/stanleyn/Comp790-166-Comp-Bio/blob/main/Lecture_Notes/Lecture17_public.pdf) | [[RefiNA](https://github.com/GemsLab/RefiNA)] | 
 |April 8, 2021 : **[[HW 2 Assigned](https://github.com/stanleyn/Comp790-166-Comp-Bio/tree/main/Homework2)]** | Harmonic alignment for multimodal single cell data, graph neural networks vs label propagation + correction  | [[Harmonic Alignment + Single Cell Multimodal](https://epubs.siam.org/doi/pdf/10.1137/1.9781611976236.36)], [[Learning on Graphs- Correct and Smooth](https://openreview.net/pdf?id=8E1-f3VhX1o)] | [Lecture 18 Notes](https://github.com/stanleyn/Comp790-166-Comp-Bio/blob/main/Lecture_Notes/Lecture18_public.pdf) |
-| April X, 2021  | Imaging Proteomics + Spatial Regularization : computational challeneges in combining tissue images and protein expression | |
-| April X, 2021 :  | Computational Neuroscience + Brain Connectivity | | 
-| April X, 2021 | Multiomics Day 5: Benchmarking in multiomics studies | |
-|April X, 2021  | Incorporating Prior Biological Knowledge into Analysis | |
-|April X, 2021 : **Homework 2 Due** |  Systems Immunology Topic: TCR/BCR (T and B cell receptor reperotire analysis) | | 
-|April 27, 2021 | Project Presentations Day 1 | |
+| April 13, 2021 :  | Computational Neuroscience + Time Varying Analysis of Brain Connectivity | [[review on chronnectome](https://www.sciencedirect.com/science/article/pii/S0896627314009131)] | 
+| April 15, 2021 | Comp Neuro day 2 | |
+| April 20, 2021  | Imaging Proteomics + Spatial Regularization : computational challeneges in combining tissue images and protein expression | |
+|April 22, 2021 : **Homework 2 Due on April 23**  | Imaging proteomics day 2 | |
+|April 27, 2021 :  |  Project Presentations Day 2 | | 
 |April 29, 2021 | Project Presentations Day 2 | |
+|May 4, 2021 | Project Presentations Day 3 | |
 |Final Exam Day | Project papers due | |
 
 # Homework, Project, Reading, Grading, Etc
