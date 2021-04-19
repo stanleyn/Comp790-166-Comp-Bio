@@ -1,150 +1,100 @@
-Streptococcaceae(100);Streptococcus(100);
-"""Bacilli""(100);""Lactobacillales""(100);
-"
-Actinomycetaceae(100);Actinomyces(100);
-"Actinomycetales(100);Micrococcaceae(100);
-"
-"Streptococcaceae(100);Streptococcus(100);
-"
-Neisseriaceae(100);Neisseria(69);
-"""Flavobacteriales""(100);Flavobacteriaceae(100);
-"
-"Pasteurellales(100);Pasteurellaceae(100);
-"
-"""Staphylococcaceae""(100);Gemella(100);
-"
-"""Flavobacteriales""(100);Flavobacteriaceae(100);"
-"""Staphylococcaceae""(100);Gemella(100);"
-"""Bacilli""(100);""Lactobacillales""(100);"
-Spirochaetaceae(100);Treponema(100);
-"Spirochaetaceae(100);Treponema(100);
-"
-"Betaproteobacteria(100);Burkholderiales(100);
-"
-Flavobacteriaceae(100);Capnocytophaga(100);
-"Neisseriaceae(100);Neisseria(69);
-"
-Corynebacteriaceae(100);Corynebacterium(100);
-Betaproteobacteria(100);Burkholderiales(100);
-"""Lactobacillales""(100);""Aerococcaceae""(100);
-"
-Pasteurellales(100);Pasteurellaceae(100);
-Clostridiales(100);Veillonellaceae(100);
-"Flavobacteriaceae(100);Capnocytophaga(100);
-"
-"""Prevotellaceae""(100);Prevotella(100);"
-"""Prevotellaceae""(100);Prevotella(100);
-"
-Veillonellaceae(100);Veillonella(95);
-"Corynebacteriaceae(100);Corynebacterium(100);
-"
-"""Bacteroidales""(100);""Prevotellaceae""(100);
-"
-"Actinomycetaceae(100);Actinomyces(100);
-"
-"Veillonellaceae(100);Dialister(100);
-"
-Veillonellaceae(100);Selenomonas(95);
-"Veillonellaceae(100);Selenomonas(100);
-"
-"Bacteria(100);""Bacteroidetes""(100);"
-"""Porphyromonadaceae""(100);Parabacteroides(69);
-"
-Veillonellaceae(100);Dialister(100);
-"""Fusobacteriaceae""(100);Fusobacterium(100);
-"
-Root(100);Bacteria(100);
-Incertae_Sedis_XI(100);Parvimonas(100);
-"Bacteria(100);""Bacteroidetes""(100);
-"
-"Actinomycetales(100);Propionibacteriaceae(100);
-"
-Cardiobacteriaceae(100);Cardiobacterium(100);
-"Campylobacteraceae(100);Campylobacter(100);
-"
-"Clostridiales(100);Veillonellaceae(100);
-"
-Corynebacteriaceae(93);Corynebacterium(93);
-"""Leptotrichiaceae""(100);Leptotrichia(100);
-"
-Veillonellaceae(100);Selenomonas(100);
-"""Porphyromonadaceae""(100);Parabacteroides(69);"
-Actinomycetales(100);Propionibacteriaceae(100);
-Actinomycetales(100);Micrococcaceae(100);
-"Cardiobacteriaceae(100);Cardiobacterium(100);
-"
-"""Leptotrichiaceae""(100);Leptotrichia(100);"
-"Clostridiales(100);""Lachnospiraceae""(100);
-"
-"Corynebacteriaceae(93);Corynebacterium(93);
-"
-"""Porphyromonadaceae""(100);Porphyromonas(100);
-"
-"Root(100);Bacteria(100);
-"
-Campylobacteraceae(100);Campylobacter(100);
-"Veillonellaceae(100);Veillonella(95);
-"
-"""Clostridia""(100);Clostridiales(100);"
-"Incertae_Sedis_XI(100);Parvimonas(100);
-"
-"Neisseriaceae(100);Neisseria(95);
-"
-"""Porphyromonadaceae""(100);Porphyromonas(100);"
-"Neisseriales(100);Neisseriaceae(100);
-"
-Coriobacteriaceae(100);Atopobium(100);
-Neisseriaceae(100);Neisseria(95);
-Spirochaetales(95);Spirochaetaceae(95);
-"Veillonellaceae(100);Selenomonas(95);
-"
-"""Bacteroidales""(100);""Prevotellaceae""(100);"
-"Clostridiales(100);""Peptostreptococcaceae""(99);
-"
-"""Lachnospiraceae""(100);Catonella(100);"
-"""Fusobacteriaceae""(100);Fusobacterium(100);"
-Neisseriaceae(100);Neisseria(99);
-Neisseriales(100);Neisseriaceae(100);
-"Coriobacteriaceae(100);Atopobium(100);
-"
-"""Clostridia""(93);Clostridiales(93);"
-"""Lachnospiraceae""(100);Catonella(100);
-"
-"Clostridiales(100);""Lachnospiraceae""(100);"
-"Neisseriaceae(100);Neisseria(99);
-"
-"Spirochaetales(95);Spirochaetaceae(95);
-"
-"""Bacteroidia""(100);""Bacteroidales""(100);"
-"""Clostridia""(100);Clostridiales(100);
-"
-Flavobacteriaceae(100);Capnocytophaga(99);
-"Clostridiales(100);""Peptostreptococcaceae""(99);"
-"""Prevotellaceae""(100);Prevotella(68);
-"
-"Clostridiales(100);""Lachnospiraceae""(97);
-"
-"""Bacteroidia""(59);""Bacteroidales""(59);"
-Lactobacillaceae(100);Lactobacillus(100);
-"Burkholderiales(100);Comamonadaceae(95);
-"
-"""Prevotellaceae""(100);Prevotella(99);
-"
-"Actinobacteria(100);Actinomycetales(100);
-"
-"""Prevotellaceae""(100);Prevotella(68);"
-"Clostridiaceae(100);Clostridium(97);
-"
-Bacteroidaceae(64);Bacteroides(64);
-Neisseriaceae(100);Neisseria(87);
-"Neisseriaceae(100);Neisseria(87);
-"
-Burkholderiales(100);Comamonadaceae(95);
-"Lactobacillaceae(100);Lactobacillus(100);
-"
-Actinobacteria(100);Actinomycetales(100);
-"""Clostridia""(93);Clostridiales(93);
-"
-"Bacteroidaceae(64);Bacteroides(64);
-"
-"""Prevotellaceae""(100);Prevotella(99);"
+"  [1] ""Streptococcaceae(100);Streptococcus(100);""          "
+"  [2] ""\""Bacilli\""(100);\""Lactobacillales\""(100);\n""       "
+"  [3] ""Actinomycetaceae(100);Actinomyces(100);""            "
+"  [4] ""Actinomycetales(100);Micrococcaceae(100);\n""        "
+"  [5] ""Streptococcaceae(100);Streptococcus(100);\n""        "
+"  [6] ""Neisseriaceae(100);Neisseria(69);""                  "
+"  [7] ""\""Flavobacteriales\""(100);Flavobacteriaceae(100);\n"""
+"  [8] ""Pasteurellales(100);Pasteurellaceae(100);\n""        "
+"  [9] ""\""Staphylococcaceae\""(100);Gemella(100);\n""         "
+" [10] ""\""Flavobacteriales\""(100);Flavobacteriaceae(100);""  "
+" [11] ""\""Staphylococcaceae\""(100);Gemella(100);""           "
+" [12] ""\""Bacilli\""(100);\""Lactobacillales\""(100);""         "
+" [13] ""Spirochaetaceae(100);Treponema(100);""               "
+" [14] ""Spirochaetaceae(100);Treponema(100);\n""             "
+" [15] ""Betaproteobacteria(100);Burkholderiales(100);\n""    "
+" [16] ""Flavobacteriaceae(100);Capnocytophaga(100);""        "
+" [17] ""Neisseriaceae(100);Neisseria(69);\n""                "
+" [18] ""Corynebacteriaceae(100);Corynebacterium(100);""      "
+" [19] ""Betaproteobacteria(100);Burkholderiales(100);""      "
+" [20] ""\""Lactobacillales\""(100);\""Aerococcaceae\""(100);\n"" "
+" [21] ""Pasteurellales(100);Pasteurellaceae(100);""          "
+" [22] ""Clostridiales(100);Veillonellaceae(100);""           "
+" [23] ""Flavobacteriaceae(100);Capnocytophaga(100);\n""      "
+" [24] ""\""Prevotellaceae\""(100);Prevotella(100);""           "
+" [25] ""\""Prevotellaceae\""(100);Prevotella(100);\n""         "
+" [26] ""Veillonellaceae(100);Veillonella(95);""              "
+" [27] ""Corynebacteriaceae(100);Corynebacterium(100);\n""    "
+" [28] ""\""Bacteroidales\""(100);\""Prevotellaceae\""(100);\n""  "
+" [29] ""Actinomycetaceae(100);Actinomyces(100);\n""          "
+" [30] ""Veillonellaceae(100);Dialister(100);\n""             "
+" [31] ""Veillonellaceae(100);Selenomonas(95);""              "
+" [32] ""Veillonellaceae(100);Selenomonas(100);\n""           "
+" [33] ""Bacteria(100);\""Bacteroidetes\""(100);""              "
+" [34] ""\""Porphyromonadaceae\""(100);Parabacteroides(69);\n"" "
+" [35] ""Veillonellaceae(100);Dialister(100);""               "
+" [36] ""\""Fusobacteriaceae\""(100);Fusobacterium(100);\n""    "
+" [37] ""Root(100);Bacteria(100);""                           "
+" [38] ""Incertae_Sedis_XI(100);Parvimonas(100);""            "
+" [39] ""Bacteria(100);\""Bacteroidetes\""(100);\n""            "
+" [40] ""Actinomycetales(100);Propionibacteriaceae(100);\n""  "
+" [41] ""Cardiobacteriaceae(100);Cardiobacterium(100);""      "
+" [42] ""Campylobacteraceae(100);Campylobacter(100);\n""      "
+" [43] ""Clostridiales(100);Veillonellaceae(100);\n""         "
+" [44] ""Corynebacteriaceae(93);Corynebacterium(93);""        "
+" [45] ""\""Leptotrichiaceae\""(100);Leptotrichia(100);\n""     "
+" [46] ""Veillonellaceae(100);Selenomonas(100);""             "
+" [47] ""\""Porphyromonadaceae\""(100);Parabacteroides(69);""   "
+" [48] ""Actinomycetales(100);Propionibacteriaceae(100);""    "
+" [49] ""Actinomycetales(100);Micrococcaceae(100);""          "
+" [50] ""Cardiobacteriaceae(100);Cardiobacterium(100);\n""    "
+" [51] ""\""Leptotrichiaceae\""(100);Leptotrichia(100);""       "
+" [52] ""Clostridiales(100);\""Lachnospiraceae\""(100);\n""     "
+" [53] ""Corynebacteriaceae(93);Corynebacterium(93);\n""      "
+" [54] ""\""Porphyromonadaceae\""(100);Porphyromonas(100);\n""  "
+" [55] ""Root(100);Bacteria(100);\n""                         "
+" [56] ""Campylobacteraceae(100);Campylobacter(100);""        "
+" [57] ""Veillonellaceae(100);Veillonella(95);\n""            "
+" [58] ""\""Clostridia\""(100);Clostridiales(100);""            "
+" [59] ""Incertae_Sedis_XI(100);Parvimonas(100);\n""          "
+" [60] ""Neisseriaceae(100);Neisseria(95);\n""                "
+" [61] ""\""Porphyromonadaceae\""(100);Porphyromonas(100);""    "
+" [62] ""Neisseriales(100);Neisseriaceae(100);\n""            "
+" [63] ""Coriobacteriaceae(100);Atopobium(100);""             "
+" [64] ""Neisseriaceae(100);Neisseria(95);""                  "
+" [65] ""Spirochaetales(95);Spirochaetaceae(95);""            "
+" [66] ""Veillonellaceae(100);Selenomonas(95);\n""            "
+" [67] ""\""Bacteroidales\""(100);\""Prevotellaceae\""(100);""    "
+" [68] ""Clostridiales(100);\""Peptostreptococcaceae\""(99);\n"""
+" [69] ""\""Lachnospiraceae\""(100);Catonella(100);""           "
+" [70] ""\""Fusobacteriaceae\""(100);Fusobacterium(100);""      "
+" [71] ""Neisseriaceae(100);Neisseria(99);""                  "
+" [72] ""Neisseriales(100);Neisseriaceae(100);""              "
+" [73] ""Coriobacteriaceae(100);Atopobium(100);\n""           "
+" [74] ""\""Clostridia\""(93);Clostridiales(93);""              "
+" [75] ""\""Lachnospiraceae\""(100);Catonella(100);\n""         "
+" [76] ""Clostridiales(100);\""Lachnospiraceae\""(100);""       "
+" [77] ""Neisseriaceae(100);Neisseria(99);\n""                "
+" [78] ""Spirochaetales(95);Spirochaetaceae(95);\n""          "
+" [79] ""\""Bacteroidia\""(100);\""Bacteroidales\""(100);""       "
+" [80] ""\""Clostridia\""(100);Clostridiales(100);\n""          "
+" [81] ""Flavobacteriaceae(100);Capnocytophaga(99);""         "
+" [82] ""Clostridiales(100);\""Peptostreptococcaceae\""(99);""  "
+" [83] ""\""Prevotellaceae\""(100);Prevotella(68);\n""          "
+" [84] ""Clostridiales(100);\""Lachnospiraceae\""(97);\n""      "
+" [85] ""\""Bacteroidia\""(59);\""Bacteroidales\""(59);""         "
+" [86] ""Lactobacillaceae(100);Lactobacillus(100);""          "
+" [87] ""Burkholderiales(100);Comamonadaceae(95);\n""         "
+" [88] ""\""Prevotellaceae\""(100);Prevotella(99);\n""          "
+" [89] ""Actinobacteria(100);Actinomycetales(100);\n""        "
+" [90] ""\""Prevotellaceae\""(100);Prevotella(68);""            "
+" [91] ""Clostridiaceae(100);Clostridium(97);\n""             "
+" [92] ""Bacteroidaceae(64);Bacteroides(64);""                "
+" [93] ""Neisseriaceae(100);Neisseria(87);""                  "
+" [94] ""Neisseriaceae(100);Neisseria(87);\n""                "
+" [95] ""Burkholderiales(100);Comamonadaceae(95);""           "
+" [96] ""Lactobacillaceae(100);Lactobacillus(100);\n""        "
+" [97] ""Actinobacteria(100);Actinomycetales(100);""          "
+" [98] ""\""Clostridia\""(93);Clostridiales(93);\n""            "
+" [99] ""Bacteroidaceae(64);Bacteroides(64);\n""              "
+"[100] ""\""Prevotellaceae\""(100);Prevotella(99);""           "
