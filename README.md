@@ -59,7 +59,7 @@ Note that this is preliminary. Some topics may take (on average) 1 day longer th
 |April 27, 2021 :  |  Project Presentations Day 1 | [[Final Rubric](https://docs.google.com/document/d/1FKh4_9VK6CHwqLs2V3mTo457FwELEFYNrXwEqNbGlBk/edit)] | 
 |April 29, 2021 | Project Presentations Day 2 | |
 |May 4, 2021 | Project Presentations Day 3 | |
-|Final Exam Day | Project papers due | |
+|**May 11 2021** | Project papers due | |
 
 # Homework, Project, Reading, Grading, Etc
 
